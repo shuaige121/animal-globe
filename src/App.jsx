@@ -162,7 +162,7 @@ export default function App() {
           <motion.div
             style={{
               position: 'fixed',
-              bottom: '88px',
+              bottom: 'max(88px, calc(env(safe-area-inset-bottom, 0px) + 68px))',
               left: '50%',
               transform: 'translateX(-50%)',
               background: 'rgba(15, 15, 42, 0.85)',
