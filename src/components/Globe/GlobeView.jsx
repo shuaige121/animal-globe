@@ -169,6 +169,8 @@ export default function GlobeView({ animals, onAnimalSelect, selectedAnimal }) {
 
         // Use local textures (served from /animal-globe/earth-blue-marble.jpg)
         const globe = Globe()
+
+        globe
           .width(w)
           .height(h)
           .backgroundColor('rgba(0,0,0,0)')
@@ -176,7 +178,12 @@ export default function GlobeView({ animals, onAnimalSelect, selectedAnimal }) {
           .bumpImageUrl('/animal-globe/earth-topology.png')
           .atmosphereColor('#4488ff')
           .atmosphereAltitude(0.15)
-          .showAtmosphere(true)
+
+        if (typeof globe.showAtmosphere === 'function') {
+          globe.showAtmosphere(true)
+        }
+
+        globe
           .htmlElementsData(animalsWithCoords)
           .htmlLat(d => getCoords(d).lat)
           .htmlLng(d => getCoords(d).lng)

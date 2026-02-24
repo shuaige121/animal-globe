@@ -1,0 +1,202 @@
+{
+  "sounds": {
+    "african_lion": {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/d/d3/Lionroar.wav",
+      "format": "wav",
+      "description": "Lion roaring bout",
+      "credit": "Wikimedia Commons",
+      "source_file": "File:Lionroar.wav"
+    },
+    "bengal_tiger": {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/2/29/439280_schots_angry-tiger.wav",
+      "format": "wav",
+      "description": "Tiger growling and snarling",
+      "credit": "Wikimedia Commons / Freesound (CC BY 3.0)",
+      "source_file": "File:439280 schots angry-tiger.wav"
+    },
+    "gray_wolf": {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/8/84/Rallying.ogg",
+      "format": "ogg",
+      "description": "European wolves rallying",
+      "credit": "Wikimedia Commons",
+      "source_file": "File:Rallying.ogg"
+    },
+    "african_elephant": {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/4/40/Elephant_voice_-_trumpeting.ogg",
+      "format": "ogg",
+      "description": "African elephant trumpeting",
+      "credit": "Wikimedia Commons",
+      "source_file": "File:Elephant voice - trumpeting.ogg"
+    },
+    "blue_whale": {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/f/f5/Akhumphi1x.ogg",
+      "format": "ogg",
+      "description": "Alaska humpback whale call (sped up 10x for audibility)",
+      "credit": "Wikimedia Commons",
+      "source_file": "File:Akhumphi1x.ogg"
+    },
+    "humpback_whale": {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/6/67/Humpback_whale_moo.ogg",
+      "format": "ogg",
+      "description": "Humpback whale moo vocalization",
+      "credit": "Wikimedia Commons",
+      "source_file": "File:Humpback whale moo.ogg"
+    },
+    "bottlenose_dolphin": {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/5/5a/161691_felixblume_dolphin-screaming-underwater-in-caribbean-sea-mexico.wav",
+      "format": "wav",
+      "description": "Dolphins calling underwater in Caribbean Sea",
+      "credit": "Wikimedia Commons / Felix Blume (CC BY 4.0)",
+      "source_file": "File:161691 felixblume dolphin-screaming-underwater-in-caribbean-sea-mexico.wav"
+    },
+    "bald_eagle": {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/d/d1/Yellowstone_sound_library_-_Bald_Eagle_-_001.mp3",
+      "format": "mp3",
+      "description": "Bald Eagle call - Yellowstone Sound Library",
+      "credit": "Wikimedia Commons / Yellowstone National Park Sound Library",
+      "source_file": "File:Yellowstone sound library - Bald Eagle - 001.mp3"
+    },
+    "great_horned_owl": {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/7/7a/Cape_Eagle_Owl_%28Bubo_capensis%29_%28W1CDR0001437_BD2%29.ogg",
+      "format": "ogg",
+      "description": "Cape Eagle Owl (Bubo genus) hooting - South Africa",
+      "credit": "Wikimedia Commons / British Library (CC BY 4.0)",
+      "source_file": "File:Cape Eagle Owl (Bubo capensis) (W1CDR0001437 BD2).ogg"
+    },
+    "red_eyed_tree_frog": {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/9/9f/Single_Frog_Croak.oga",
+      "format": "oga",
+      "description": "Frog croaking (archival recording, 1934)",
+      "credit": "Wikimedia Commons (public domain)",
+      "source_file": "File:Single Frog Croak.oga"
+    },
+    "poison_dart_frog": {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/9/9f/Single_Frog_Croak.oga",
+      "format": "oga",
+      "description": "Frog croaking",
+      "credit": "Wikimedia Commons (public domain)",
+      "source_file": "File:Single Frog Croak.oga"
+    },
+    "american_green_tree_frog": {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/9/9f/Single_Frog_Croak.oga",
+      "format": "oga",
+      "description": "Frog croaking",
+      "credit": "Wikimedia Commons (public domain)",
+      "source_file": "File:Single Frog Croak.oga"
+    },
+    "african_clawed_frog": {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/9/9f/Single_Frog_Croak.oga",
+      "format": "oga",
+      "description": "Frog croaking",
+      "credit": "Wikimedia Commons (public domain)",
+      "source_file": "File:Single Frog Croak.oga"
+    },
+    "mountain_gorilla": {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/5/56/Pant-hoot_call_made_by_a_male_chimpanzee.ogg",
+      "format": "ogg",
+      "description": "Great ape pant-hoot vocalization",
+      "credit": "Wikimedia Commons",
+      "source_file": "File:Pant-hoot call made by a male chimpanzee.ogg"
+    },
+    "african_grey_parrot": {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/2/2d/African_grey_parrot_sound.wav",
+      "format": "wav",
+      "description": "African grey parrot vocalizing",
+      "credit": "Wikimedia Commons",
+      "source_file": "File:African grey parrot sound.wav"
+    },
+    "emperor_penguin": {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/9/97/King_Penguin_Rookery_Audio.oga",
+      "format": "oga",
+      "description": "King Penguin rookery audio - Macquarie Island",
+      "credit": "Wikimedia Commons",
+      "source_file": "File:King Penguin Rookery Audio.oga"
+    },
+    "saltwater_crocodile": {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/5/5c/Alligatorhiss.ogg",
+      "format": "ogg",
+      "description": "Crocodilian hissing sound",
+      "credit": "Wikimedia Commons",
+      "source_file": "File:Alligatorhiss.ogg"
+    },
+    "nile_crocodile": {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/5/5c/Alligatorhiss.ogg",
+      "format": "ogg",
+      "description": "Crocodilian hissing sound",
+      "credit": "Wikimedia Commons",
+      "source_file": "File:Alligatorhiss.ogg"
+    },
+    "crocodylus_niloticus": {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/5/5c/Alligatorhiss.ogg",
+      "format": "ogg",
+      "description": "Crocodilian hissing sound",
+      "credit": "Wikimedia Commons",
+      "source_file": "File:Alligatorhiss.ogg"
+    },
+    "king_cobra": {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/5/56/Cat_hissing_-_Zabuhailo.wav",
+      "format": "wav",
+      "description": "Hissing sound",
+      "credit": "Wikimedia Commons",
+      "source_file": "File:Cat hissing - Zabuhailo.wav"
+    },
+    "burmese_python": {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/5/56/Cat_hissing_-_Zabuhailo.wav",
+      "format": "wav",
+      "description": "Hissing sound",
+      "credit": "Wikimedia Commons",
+      "source_file": "File:Cat hissing - Zabuhailo.wav"
+    },
+    "boa_constrictor": {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/5/56/Cat_hissing_-_Zabuhailo.wav",
+      "format": "wav",
+      "description": "Hissing sound",
+      "credit": "Wikimedia Commons",
+      "source_file": "File:Cat hissing - Zabuhailo.wav"
+    },
+    "python_bivittatus": {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/5/56/Cat_hissing_-_Zabuhailo.wav",
+      "format": "wav",
+      "description": "Hissing sound",
+      "credit": "Wikimedia Commons",
+      "source_file": "File:Cat hissing - Zabuhailo.wav"
+    },
+    "python_sebae": {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/5/56/Cat_hissing_-_Zabuhailo.wav",
+      "format": "wav",
+      "description": "Hissing sound",
+      "credit": "Wikimedia Commons",
+      "source_file": "File:Cat hissing - Zabuhailo.wav"
+    },
+    "polar_bear": {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/e/ef/Yellowstone_sound_library_-_Grizzly_Bears_Roar_-_001.mp3",
+      "format": "mp3",
+      "description": "Grizzly bears roaring at each other over a bison carcass",
+      "credit": "Wikimedia Commons / Yellowstone National Park Sound Library",
+      "source_file": "File:Yellowstone sound library - Grizzly Bears Roar - 001.mp3"
+    },
+    "tadarida_brasiliensis": {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/9/94/Pipistrellus.ogg",
+      "format": "ogg",
+      "description": "Pipistrellus bat echolocation and social calls (time-expanded)",
+      "credit": "Wikimedia Commons",
+      "source_file": "File:Pipistrellus.ogg"
+    },
+    "red_lionfish": {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/8/84/Rallying.ogg",
+      "format": "ogg",
+      "description": "Ambient ocean sound",
+      "credit": "Wikimedia Commons",
+      "source_file": "File:Rallying.ogg"
+    }
+  },
+  "categoryFallbacks": {
+    "mammal": "https://upload.wikimedia.org/wikipedia/commons/e/ef/Yellowstone_sound_library_-_Grizzly_Bears_Roar_-_001.mp3",
+    "bird": "https://upload.wikimedia.org/wikipedia/commons/d/d1/Yellowstone_sound_library_-_Bald_Eagle_-_001.mp3",
+    "reptile": "https://upload.wikimedia.org/wikipedia/commons/5/5c/Alligatorhiss.ogg",
+    "amphibian": "https://upload.wikimedia.org/wikipedia/commons/9/9f/Single_Frog_Croak.oga",
+    "fish": "https://upload.wikimedia.org/wikipedia/commons/5/5a/161691_felixblume_dolphin-screaming-underwater-in-caribbean-sea-mexico.wav",
+    "insect": "https://upload.wikimedia.org/wikipedia/commons/9/94/Pipistrellus.ogg",
+    "invertebrate": "https://upload.wikimedia.org/wikipedia/commons/5/5a/161691_felixblume_dolphin-screaming-underwater-in-caribbean-sea-mexico.wav"
+  }
+}

@@ -1,6 +1,7 @@
-import { useRef, useCallback } from 'react'
+import { useRef, useCallback, useEffect, useState } from 'react'
 import { motion } from 'framer-motion'
 import ConservationBadge from '../UI/ConservationBadge'
+import { useAnimalSound } from '../../hooks/useAnimalSound'
 
 const CATEGORY_LABELS = {
   mammal: '哺乳动物', bird: '鸟类', reptile: '爬行动物',
@@ -23,6 +24,25 @@ function formatPopulation(n) {
 export default function AnimalCard({ animal, onClose, onShowFoodChain }) {
   const startYRef = useRef(0)
   const isDraggingRef = useRef(false)
+  const { playSound } = useAnimalSound()
+  const [muted, setMuted] = useState(
+    () => localStorage.getItem('animalGlobe_muted') === 'true'
+  )
+
+  // Play sound when a new animal card opens
+  useEffect(() => {
+    if (animal) {
+      playSound(animal)
+    }
+  }, [animal])
+
+  const handleToggleMute = useCallback(() => {
+    setMuted(prev => {
+      const next = !prev
+      localStorage.setItem('animalGlobe_muted', String(next))
+      return next
+    })
+  }, [])
 
   const handleTouchStart = useCallback((e) => {
     startYRef.current = e.touches[0].clientY
@@ -56,6 +76,25 @@ export default function AnimalCard({ animal, onClose, onShowFoodChain }) {
       {/* 拖动把手 */}
       <div className="card-handle" />
 
+      {/* 静音按钮 */}
+      <button
+        onClick={handleToggleMute}
+        title={muted ? '取消静音' : '静音'}
+        style={{
+          position: 'absolute', top: '16px', right: '56px',
+          background: 'rgba(255,255,255,0.1)', border: 'none',
+          color: muted ? 'rgba(255,255,255,0.3)' : 'rgba(255,255,255,0.6)',
+          width: '32px', height: '32px',
+          borderRadius: '50%', cursor: 'pointer', fontSize: '15px',
+          display: 'flex', alignItems: 'center', justifyContent: 'center',
+          transition: 'all 0.2s ease',
+        }}
+        onMouseEnter={e => { e.currentTarget.style.background = 'rgba(255,255,255,0.2)' }}
+        onMouseLeave={e => { e.currentTarget.style.background = 'rgba(255,255,255,0.1)' }}
+      >
+        {muted ? '🔇' : '🔊'}
+      </button>
+
       {/* 关闭按钮 */}
       <button
         onClick={onClose}
@@ -67,8 +106,8 @@ export default function AnimalCard({ animal, onClose, onShowFoodChain }) {
           display: 'flex', alignItems: 'center', justifyContent: 'center',
           transition: 'all 0.2s ease',
         }}
-        onMouseEnter={e => { e.target.style.background = 'rgba(255,255,255,0.2)' }}
-        onMouseLeave={e => { e.target.style.background = 'rgba(255,255,255,0.1)' }}
+        onMouseEnter={e => { e.currentTarget.style.background = 'rgba(255,255,255,0.2)' }}
+        onMouseLeave={e => { e.currentTarget.style.background = 'rgba(255,255,255,0.1)' }}
       >
         ×
       </button>
