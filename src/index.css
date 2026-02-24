@@ -1,68 +1,472 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
 :root {
-  font-family: system-ui, Avenir, Helvetica, Arial, sans-serif;
-  line-height: 1.5;
-  font-weight: 400;
+  --color-space: #0a0a1a;
+  --color-space-light: #0f0f2a;
+  --color-endangered: #ff4444;
+  --color-vulnerable: #ff8800;
+  --color-safe: #44ff88;
+  --color-near-threatened: #ffcc00;
+  --color-critical: #ff0000;
+  --color-predator: #ff6b6b;
+  --color-prey: #69db7c;
+  --spring-ease: cubic-bezier(0.34, 1.56, 0.64, 1);
+  --smooth-ease: cubic-bezier(0.4, 0, 0.2, 1);
+}
 
-  color-scheme: light dark;
-  color: rgba(255, 255, 255, 0.87);
-  background-color: #242424;
+* {
+  -webkit-tap-highlight-color: transparent;
+  -webkit-touch-callout: none;
+  user-select: none;
+  box-sizing: border-box;
+}
 
-  font-synthesis: none;
-  text-rendering: optimizeLegibility;
+html, body {
+  width: 100%;
+  height: 100%;
+  margin: 0;
+  padding: 0;
+  overflow: hidden;
+  background-color: var(--color-space);
+  font-family: 'Noto Sans SC', 'PingFang SC', -apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif;
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
 }
 
-a {
-  font-weight: 500;
-  color: #646cff;
-  text-decoration: inherit;
-}
-a:hover {
-  color: #535bf2;
+#root {
+  width: 100%;
+  height: 100%;
+  overflow: hidden;
 }
 
-body {
-  margin: 0;
-  display: flex;
-  place-items: center;
-  min-width: 320px;
-  min-height: 100vh;
+/* 星空背景 */
+.starfield {
+  position: fixed;
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 100%;
+  pointer-events: none;
+  z-index: 0;
+  background:
+    radial-gradient(ellipse at 20% 20%, rgba(68, 136, 255, 0.05) 0%, transparent 50%),
+    radial-gradient(ellipse at 80% 80%, rgba(68, 136, 255, 0.03) 0%, transparent 50%),
+    var(--color-space);
 }
 
-h1 {
-  font-size: 3.2em;
-  line-height: 1.1;
+.starfield::before {
+  content: '';
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 100%;
+  background-image:
+    radial-gradient(1px 1px at 10% 15%, rgba(255,255,255,0.8) 0%, transparent 100%),
+    radial-gradient(1px 1px at 30% 45%, rgba(255,255,255,0.6) 0%, transparent 100%),
+    radial-gradient(1px 1px at 50% 25%, rgba(255,255,255,0.9) 0%, transparent 100%),
+    radial-gradient(1px 1px at 70% 65%, rgba(255,255,255,0.7) 0%, transparent 100%),
+    radial-gradient(1px 1px at 90% 35%, rgba(255,255,255,0.8) 0%, transparent 100%),
+    radial-gradient(1px 1px at 15% 70%, rgba(255,255,255,0.5) 0%, transparent 100%),
+    radial-gradient(1px 1px at 45% 80%, rgba(255,255,255,0.7) 0%, transparent 100%),
+    radial-gradient(1px 1px at 65% 10%, rgba(255,255,255,0.6) 0%, transparent 100%),
+    radial-gradient(1px 1px at 85% 90%, rgba(255,255,255,0.8) 0%, transparent 100%),
+    radial-gradient(2px 2px at 25% 55%, rgba(255,255,255,0.4) 0%, transparent 100%),
+    radial-gradient(2px 2px at 55% 50%, rgba(255,255,255,0.3) 0%, transparent 100%),
+    radial-gradient(2px 2px at 75% 30%, rgba(255,255,255,0.5) 0%, transparent 100%),
+    radial-gradient(1px 1px at 5% 40%, rgba(200,220,255,0.6) 0%, transparent 100%),
+    radial-gradient(1px 1px at 38% 92%, rgba(200,220,255,0.7) 0%, transparent 100%),
+    radial-gradient(1px 1px at 82% 55%, rgba(200,220,255,0.5) 0%, transparent 100%),
+    radial-gradient(1px 1px at 60% 75%, rgba(255,255,255,0.4) 0%, transparent 100%),
+    radial-gradient(1px 1px at 20% 88%, rgba(255,255,255,0.6) 0%, transparent 100%),
+    radial-gradient(1px 1px at 95% 70%, rgba(255,255,255,0.7) 0%, transparent 100%);
+  animation: twinkle 4s ease-in-out infinite alternate;
 }
 
-button {
-  border-radius: 8px;
-  border: 1px solid transparent;
-  padding: 0.6em 1.2em;
-  font-size: 1em;
-  font-weight: 500;
-  font-family: inherit;
-  background-color: #1a1a1a;
+.starfield::after {
+  content: '';
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 100%;
+  background-image:
+    radial-gradient(1px 1px at 12% 30%, rgba(255,255,255,0.5) 0%, transparent 100%),
+    radial-gradient(1px 1px at 35% 12%, rgba(255,255,255,0.7) 0%, transparent 100%),
+    radial-gradient(1px 1px at 58% 60%, rgba(255,255,255,0.6) 0%, transparent 100%),
+    radial-gradient(1px 1px at 78% 82%, rgba(255,255,255,0.8) 0%, transparent 100%),
+    radial-gradient(1px 1px at 92% 18%, rgba(255,255,255,0.5) 0%, transparent 100%),
+    radial-gradient(1px 1px at 3% 95%, rgba(255,255,255,0.6) 0%, transparent 100%),
+    radial-gradient(1px 1px at 42% 37%, rgba(200,200,255,0.4) 0%, transparent 100%),
+    radial-gradient(1px 1px at 67% 48%, rgba(255,255,255,0.7) 0%, transparent 100%),
+    radial-gradient(2px 2px at 88% 42%, rgba(255,255,255,0.3) 0%, transparent 100%),
+    radial-gradient(1px 1px at 22% 62%, rgba(255,255,255,0.8) 0%, transparent 100%);
+  animation: twinkle 6s ease-in-out infinite alternate-reverse;
+}
+
+@keyframes twinkle {
+  0% { opacity: 0.6; }
+  50% { opacity: 1; }
+  100% { opacity: 0.7; }
+}
+
+/* Globe 容器 */
+.globe-container {
+  position: relative;
+  width: 100%;
+  height: 100%;
+  z-index: 1;
+}
+
+.globe-container canvas {
+  display: block;
+}
+
+/* 动物标记 */
+.animal-marker {
   cursor: pointer;
-  transition: border-color 0.25s;
-}
-button:hover {
-  border-color: #646cff;
-}
-button:focus,
-button:focus-visible {
-  outline: 4px auto -webkit-focus-ring-color;
+  transform: translate(-50%, -50%);
+  transition: transform 0.2s cubic-bezier(0.34, 1.56, 0.64, 1);
+  position: relative;
+  width: 44px;
+  height: 44px;
 }
 
-@media (prefers-color-scheme: light) {
-  :root {
-    color: #213547;
-    background-color: #ffffff;
+.animal-marker:hover .animal-avatar {
+  transform: scale(1.2);
+  box-shadow:
+    0 0 0 4px rgba(68, 136, 255, 0.6),
+    0 6px 20px rgba(0, 0, 0, 0.6);
+}
+
+.animal-avatar {
+  width: 44px;
+  height: 44px;
+  border-radius: 50%;
+  border: 2.5px solid rgba(255, 255, 255, 0.9);
+  object-fit: cover;
+  display: block;
+  box-shadow:
+    0 0 0 3px rgba(68, 136, 255, 0.4),
+    0 4px 12px rgba(0, 0, 0, 0.5);
+  background: #1a1a3a;
+  transition: all 0.3s cubic-bezier(0.34, 1.56, 0.64, 1);
+}
+
+.animal-avatar.cr-status,
+.animal-avatar.en-status {
+  border-color: #ff4444;
+  box-shadow:
+    0 0 0 3px rgba(255, 68, 68, 0.4),
+    0 0 15px rgba(255, 68, 68, 0.3),
+    0 4px 12px rgba(0, 0, 0, 0.5);
+  animation: danger-pulse 2s ease-in-out infinite;
+}
+
+@keyframes danger-pulse {
+  0%, 100% { box-shadow: 0 0 0 3px rgba(255, 68, 68, 0.4), 0 0 15px rgba(255, 68, 68, 0.3), 0 4px 12px rgba(0,0,0,0.5); }
+  50% { box-shadow: 0 0 0 5px rgba(255, 68, 68, 0.6), 0 0 25px rgba(255, 68, 68, 0.5), 0 4px 12px rgba(0,0,0,0.5); }
+}
+
+.warning-icon {
+  position: absolute;
+  top: -6px;
+  right: -6px;
+  width: 18px;
+  height: 18px;
+  background: #ff4444;
+  border-radius: 50%;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  font-size: 10px;
+  line-height: 1;
+  border: 1.5px solid #0a0a1a;
+  animation: warning-bounce 1.5s ease-in-out infinite;
+  pointer-events: none;
+}
+
+@keyframes warning-bounce {
+  0%, 100% { transform: scale(1); }
+  50% { transform: scale(1.2); }
+}
+
+.marker-label {
+  position: absolute;
+  top: 50px;
+  left: 50%;
+  transform: translateX(-50%);
+  background: rgba(10, 10, 26, 0.85);
+  backdrop-filter: blur(8px);
+  border: 1px solid rgba(255,255,255,0.15);
+  color: white;
+  padding: 3px 8px;
+  border-radius: 10px;
+  font-size: 11px;
+  white-space: nowrap;
+  font-weight: 500;
+  letter-spacing: 0.5px;
+  pointer-events: none;
+}
+
+/* 底部动物卡片 */
+.animal-card {
+  position: fixed;
+  bottom: 0;
+  left: 0;
+  right: 0;
+  background: rgba(15, 15, 42, 0.97);
+  backdrop-filter: blur(20px);
+  -webkit-backdrop-filter: blur(20px);
+  border-top: 1px solid rgba(255, 255, 255, 0.1);
+  border-radius: 24px 24px 0 0;
+  z-index: 100;
+  max-height: 80vh;
+  overflow-y: auto;
+  box-shadow: 0 -10px 60px rgba(0, 0, 0, 0.6);
+}
+
+.card-handle {
+  width: 40px;
+  height: 4px;
+  background: rgba(255, 255, 255, 0.2);
+  border-radius: 2px;
+  margin: 12px auto 0;
+}
+
+/* 食物链图 */
+.food-chain-view {
+  position: fixed;
+  inset: 0;
+  background: rgba(10, 10, 26, 0.98);
+  z-index: 200;
+}
+
+.food-chain-svg {
+  width: 100%;
+  height: 100%;
+}
+
+/* D3 节点样式 */
+.node-circle {
+  cursor: pointer;
+  filter: drop-shadow(0 4px 8px rgba(0,0,0,0.4));
+}
+
+.node-label {
+  fill: white;
+  font-family: 'Noto Sans SC', 'PingFang SC', sans-serif;
+  font-weight: 500;
+  text-anchor: middle;
+  dominant-baseline: central;
+  pointer-events: none;
+  font-size: 13px;
+}
+
+/* 流动箭头动画 */
+.link-animated {
+  stroke-dasharray: 8 4;
+  animation: dash-flow 1.5s linear infinite;
+}
+
+@keyframes dash-flow {
+  to { stroke-dashoffset: -36; }
+}
+
+/* 保护等级徽章 */
+.conservation-badge {
+  display: inline-flex;
+  align-items: center;
+  gap: 4px;
+  padding: 4px 10px;
+  border-radius: 20px;
+  font-size: 12px;
+  font-weight: 700;
+  letter-spacing: 1px;
+  text-transform: uppercase;
+}
+
+/* 滚动条样式 */
+::-webkit-scrollbar {
+  width: 4px;
+}
+::-webkit-scrollbar-track {
+  background: transparent;
+}
+::-webkit-scrollbar-thumb {
+  background: rgba(255,255,255,0.2);
+  border-radius: 2px;
+}
+
+/* 返回按钮 */
+.back-button {
+  position: fixed;
+  bottom: max(32px, env(safe-area-inset-bottom, 32px));
+  left: 50%;
+  transform: translateX(-50%);
+  background: rgba(15, 15, 42, 0.9);
+  backdrop-filter: blur(16px);
+  -webkit-backdrop-filter: blur(16px);
+  border: 1px solid rgba(255, 255, 255, 0.2);
+  color: white;
+  padding: 14px 32px;
+  border-radius: 50px;
+  font-size: 15px;
+  font-weight: 600;
+  cursor: pointer;
+  display: flex;
+  align-items: center;
+  gap: 8px;
+  box-shadow: 0 8px 32px rgba(0, 0, 0, 0.4);
+  z-index: 300;
+  transition: all 0.3s cubic-bezier(0.34, 1.56, 0.64, 1);
+  font-family: inherit;
+}
+
+.back-button:hover {
+  background: rgba(68, 136, 255, 0.3);
+  border-color: rgba(68, 136, 255, 0.6);
+  transform: translateX(-50%) scale(1.05);
+}
+
+.back-button:active {
+  transform: translateX(-50%) scale(0.97);
+}
+
+/* 统计面板 */
+.stats-panel {
+  position: fixed;
+  top: max(20px, env(safe-area-inset-top, 20px));
+  right: 20px;
+  background: rgba(15, 15, 42, 0.85);
+  backdrop-filter: blur(12px);
+  -webkit-backdrop-filter: blur(12px);
+  border: 1px solid rgba(255, 255, 255, 0.1);
+  border-radius: 16px;
+  padding: 12px 16px;
+  z-index: 50;
+  min-width: 140px;
+}
+
+.stat-item {
+  display: flex;
+  align-items: center;
+  gap: 8px;
+  margin-bottom: 6px;
+  font-size: 12px;
+  color: rgba(255,255,255,0.8);
+}
+
+.stat-dot {
+  width: 8px;
+  height: 8px;
+  border-radius: 50%;
+  flex-shrink: 0;
+}
+
+/* 加载状态 */
+.loading-overlay {
+  position: fixed;
+  inset: 0;
+  background: var(--color-space);
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  z-index: 999;
+  gap: 24px;
+}
+
+.loading-globe {
+  width: 80px;
+  height: 80px;
+  border-radius: 50%;
+  background: radial-gradient(circle at 35% 35%, #4488ff, #1a1a6a, #0a0a2a);
+  animation: rotate-globe 3s linear infinite;
+  box-shadow:
+    0 0 40px rgba(68, 136, 255, 0.4),
+    inset 0 0 30px rgba(0, 0, 60, 0.5);
+}
+
+@keyframes rotate-globe {
+  from { transform: rotate(0deg); }
+  to { transform: rotate(360deg); }
+}
+
+/* 标题 */
+.app-title {
+  position: fixed;
+  top: max(20px, env(safe-area-inset-top, 20px));
+  left: 20px;
+  z-index: 50;
+}
+
+/* 响应式 4K / Apple TV */
+@media (min-width: 2560px) {
+  .animal-avatar { width: 72px; height: 72px; }
+  .marker-label { font-size: 16px; }
+  .stats-panel { padding: 20px 24px; min-width: 180px; }
+  .stat-item { font-size: 16px; }
+  .stat-dot { width: 11px; height: 11px; }
+  .back-button { padding: 18px 40px; font-size: 18px; }
+}
+
+/* iPhone 横屏 (landscape) 布局 */
+@media screen and (orientation: landscape) and (max-height: 500px) {
+  /* 左上角标题在横屏时缩小 */
+  .app-title { transform: scale(0.85); transform-origin: top left; }
+
+  /* 统计面板横屏右上角 */
+  .stats-panel {
+    top: max(12px, env(safe-area-inset-top, 12px));
+    right: max(20px, env(safe-area-inset-right, 20px));
+    padding: 8px 14px;
+    min-width: 120px;
   }
-  a:hover {
-    color: #747bff;
+  .stat-item { font-size: 11px; margin-bottom: 4px; }
+
+  /* 动物卡片横屏占右侧 */
+  .animal-card {
+    top: 0;
+    bottom: 0;
+    left: auto;
+    right: 0;
+    width: min(340px, 45vw);
+    border-radius: 24px 0 0 24px;
+    border-top: none;
+    border-left: 1px solid rgba(255,255,255,0.1);
+    max-height: 100vh;
   }
-  button {
-    background-color: #f9f9f9;
+  .card-handle { display: none; }
+
+  /* 返回按钮横屏靠右下 */
+  .back-button {
+    left: auto;
+    right: max(calc(min(340px, 45vw) + 20px), 40px);
+    transform: none;
+    bottom: max(20px, env(safe-area-inset-bottom, 20px));
+  }
+  .back-button:hover { transform: scale(1.05); }
+  .back-button:active { transform: scale(0.97); }
+}
+
+/* iPhone 17 Pro Max safe area (landscape with Dynamic Island) */
+@supports (padding: env(safe-area-inset-left)) {
+  @media screen and (orientation: landscape) {
+    .stats-panel { right: max(20px, env(safe-area-inset-right, 20px)); }
   }
 }
+
+@media (max-width: 390px) {
+  .animal-avatar { width: 36px; height: 36px; }
+  .marker-label { font-size: 10px; }
+}
+
+/* 安全区域适配 */
+.safe-bottom {
+  padding-bottom: env(safe-area-inset-bottom, 0px);
+}
+
+button { font-family: inherit; }

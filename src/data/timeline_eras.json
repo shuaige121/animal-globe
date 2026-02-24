@@ -1,0 +1,121 @@
+{
+  "eras": [
+    {
+      "id": "present",
+      "name": "现代",
+      "nameEn": "Present",
+      "start": 0,
+      "end": 11700,
+      "color": "#44ff88",
+      "bgColor": "#0a1a0a",
+      "description": "现代 · 全新世",
+      "animals": []
+    },
+    {
+      "id": "pleistocene",
+      "name": "更新世",
+      "nameEn": "Pleistocene",
+      "start": 11700,
+      "end": 2600000,
+      "color": "#88ccff",
+      "bgColor": "#0a0a1a",
+      "description": "冰河时代 · 猛犸象时代",
+      "animals": [
+        { "id": "mammuthus_primigenius", "chineseName": "猛犸象", "englishName": "Woolly Mammoth", "scientificName": "Mammuthus primigenius", "category": "mammal", "conservationStatus": "EX", "habitatCoordinates": [[60, 80], [65, 170], [70, -140]], "population": 500000, "photoUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0e/Woolly_mammoth_model_Royal_BC_Museum_in_Victoria.jpg/320px-Woolly_mammoth_model_Royal_BC_Museum_in_Victoria.jpg", "description": "已灭绝的大型哺乳动物，生活于更新世冰河时代" },
+        { "id": "smilodon_fatalis", "chineseName": "剑齿虎", "englishName": "Saber-toothed Cat", "scientificName": "Smilodon fatalis", "category": "mammal", "conservationStatus": "EX", "habitatCoordinates": [[35, -100], [45, -75], [-30, -65]], "population": 100000, "photoUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b3/Smilodon_fatalis_Sergiodlarosa.jpg/320px-Smilodon_fatalis_Sergiodlarosa.jpg", "description": "已灭绝的大型猫科动物，以巨大的剑齿著称" },
+        { "id": "coelodonta_antiquitatis", "chineseName": "披毛犀", "englishName": "Woolly Rhinoceros", "scientificName": "Coelodonta antiquitatis", "category": "mammal", "conservationStatus": "EX", "habitatCoordinates": [[55, 40], [60, 90], [50, 120]], "population": 200000, "photoUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/81/Woolly_rhinoceros_%28Coelodonta_antiquitatis%29.jpg/320px-Woolly_rhinoceros_%28Coelodonta_antiquitatis%29.jpg", "description": "已灭绝的犀牛，身覆厚毛以适应冰河期气候" },
+        { "id": "megaloceros_giganteus", "chineseName": "大角鹿", "englishName": "Irish Elk", "scientificName": "Megaloceros giganteus", "category": "mammal", "conservationStatus": "EX", "habitatCoordinates": [[50, 10], [55, 30], [45, 20]], "population": 300000, "photoUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3e/Megaloceros_giganteus_Giant_Elk.jpg/320px-Megaloceros_giganteus_Giant_Elk.jpg", "description": "史上最大的鹿科动物，鹿角展开可达3.7米" },
+        { "id": "cave_bear", "chineseName": "洞熊", "englishName": "Cave Bear", "scientificName": "Ursus spelaeus", "category": "mammal", "conservationStatus": "EX", "habitatCoordinates": [[47, 15], [50, 25], [45, 10]], "population": 250000, "photoUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d0/Cave_bear_-_Ursus_spelaeus.jpg/320px-Cave_bear_-_Ursus_spelaeus.jpg", "description": "体型巨大的已灭绝熊类，生活于欧洲洞穴" }
+      ]
+    },
+    {
+      "id": "cretaceous",
+      "name": "白垩纪",
+      "nameEn": "Cretaceous",
+      "start": 66000000,
+      "end": 145000000,
+      "color": "#ff8844",
+      "bgColor": "#1a0a00",
+      "description": "恐龙时代末期 · 6600万年前",
+      "animals": [
+        { "id": "tyrannosaurus_rex", "chineseName": "霸王龙", "englishName": "T-Rex", "scientificName": "Tyrannosaurus rex", "category": "reptile", "conservationStatus": "EX", "habitatCoordinates": [[48, -105], [45, -100], [50, -110]], "population": 2500, "photoUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/94/Tyrannosaurus_rex_mmartyniuk_wiki.png/320px-Tyrannosaurus_rex_mmartyniuk_wiki.png", "description": "白垩纪顶级掠食者，生存于6800-6600万年前" },
+        { "id": "triceratops_horridus", "chineseName": "三角龙", "englishName": "Triceratops", "scientificName": "Triceratops horridus", "category": "reptile", "conservationStatus": "EX", "habitatCoordinates": [[45, -103], [42, -108], [47, -100]], "population": 10000, "photoUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/14/Triceratops_lull.jpg/320px-Triceratops_lull.jpg", "description": "著名的三角恐龙，头部有三根大角和颈盾" },
+        { "id": "velociraptor_mongoliensis", "chineseName": "迅猛龙", "englishName": "Velociraptor", "scientificName": "Velociraptor mongoliensis", "category": "reptile", "conservationStatus": "EX", "habitatCoordinates": [[44, 105], [42, 110], [46, 100]], "population": 50000, "photoUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e3/Velociraptor_dinoguy2.jpg/320px-Velociraptor_dinoguy2.jpg", "description": "小型肉食性恐龙，以速度和爪子著称，生活于蒙古" },
+        { "id": "pteranodon_longiceps", "chineseName": "翼手龙", "englishName": "Pteranodon", "scientificName": "Pteranodon longiceps", "category": "reptile", "conservationStatus": "EX", "habitatCoordinates": [[40, -98], [35, -95], [45, -100]], "population": 30000, "photoUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/Pteranodon_BW.jpg/320px-Pteranodon_BW.jpg", "description": "白垩纪大型飞行爬行动物，翼展可达7米" },
+        { "id": "mosasaurus_hoffmannii", "chineseName": "沧龙", "englishName": "Mosasaurus", "scientificName": "Mosasaurus hoffmannii", "category": "reptile", "conservationStatus": "EX", "habitatCoordinates": [[20, -50], [10, -30], [30, -20]], "population": 5000, "photoUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/Mosasaurus_BW.jpg/320px-Mosasaurus_BW.jpg", "description": "白垩纪海洋顶级掠食者，长达18米" }
+      ]
+    },
+    {
+      "id": "jurassic",
+      "name": "侏罗纪",
+      "nameEn": "Jurassic",
+      "start": 145000000,
+      "end": 201000000,
+      "color": "#ff6600",
+      "bgColor": "#1a0800",
+      "description": "恐龙鼎盛时期 · 2亿年前",
+      "animals": [
+        { "id": "brachiosaurus_altithorax", "chineseName": "腕龙", "englishName": "Brachiosaurus", "scientificName": "Brachiosaurus altithorax", "category": "reptile", "conservationStatus": "EX", "habitatCoordinates": [[5, 30], [0, 25], [10, 35]], "population": 8000, "photoUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b0/Brachiosaurus_DB.jpg/320px-Brachiosaurus_DB.jpg", "description": "侏罗纪最著名的长颈蜥脚类恐龙，体重可达80吨" },
+        { "id": "stegosaurus_stenops", "chineseName": "剑龙", "englishName": "Stegosaurus", "scientificName": "Stegosaurus stenops", "category": "reptile", "conservationStatus": "EX", "habitatCoordinates": [[42, -108], [40, -105], [44, -110]], "population": 20000, "photoUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d6/Stegosaurus_stenops_sophie_wiki_martyniuk.png/320px-Stegosaurus_stenops_sophie_wiki_martyniuk.png", "description": "以背部板甲著称的食草恐龙" },
+        { "id": "allosaurus_fragilis", "chineseName": "异特龙", "englishName": "Allosaurus", "scientificName": "Allosaurus fragilis", "category": "reptile", "conservationStatus": "EX", "habitatCoordinates": [[40, -109], [38, -106], [42, -112]], "population": 5000, "photoUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5a/Allosaurus_Revised.jpg/320px-Allosaurus_Revised.jpg", "description": "侏罗纪北美洲的顶级掠食者" }
+      ]
+    },
+    {
+      "id": "triassic",
+      "name": "三叠纪",
+      "nameEn": "Triassic",
+      "start": 201000000,
+      "end": 252000000,
+      "color": "#ffaa00",
+      "bgColor": "#1a0500",
+      "description": "恐龙起源 · 2.5亿年前",
+      "animals": [
+        { "id": "plateosaurus_engelhardti", "chineseName": "板龙", "englishName": "Plateosaurus", "scientificName": "Plateosaurus engelhardti", "category": "reptile", "conservationStatus": "EX", "habitatCoordinates": [[48, 10], [46, 8], [50, 12]], "population": 15000, "photoUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c2/Plateosaurus_DB.jpg/320px-Plateosaurus_DB.jpg", "description": "最早的大型恐龙之一，生活于三叠纪晚期" },
+        { "id": "eoraptor_lunensis", "chineseName": "始盗龙", "englishName": "Eoraptor", "scientificName": "Eoraptor lunensis", "category": "reptile", "conservationStatus": "EX", "habitatCoordinates": [[-30, -68], [-28, -65], [-32, -70]], "population": 30000, "photoUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/Eoraptor_lunensis_DB.jpg/320px-Eoraptor_lunensis_DB.jpg", "description": "最早的恐龙之一，发现于阿根廷，约2.3亿年前" }
+      ]
+    },
+    {
+      "id": "carboniferous",
+      "name": "石炭纪",
+      "nameEn": "Carboniferous",
+      "start": 298900000,
+      "end": 358900000,
+      "color": "#228822",
+      "bgColor": "#001a00",
+      "description": "煤炭森林时代 · 3亿年前",
+      "animals": [
+        { "id": "meganeura_monyi", "chineseName": "巨脉蜻蜓", "englishName": "Giant Dragonfly", "scientificName": "Meganeura monyi", "category": "insect", "conservationStatus": "EX", "habitatCoordinates": [[45, 2], [48, 5], [42, 0]], "population": 1000000, "photoUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e2/MeganeuraMONYI.JPG/320px-MeganeuraMONYI.JPG", "description": "史上最大的昆虫，翼展可达70厘米" },
+        { "id": "arthropleura_armata", "chineseName": "节胸蜈蚣", "englishName": "Giant Millipede", "scientificName": "Arthropleura armata", "category": "insect", "conservationStatus": "EX", "habitatCoordinates": [[50, 0], [52, -5], [48, 5]], "population": 500000, "photoUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5e/Arthropleura_BW.jpg/320px-Arthropleura_BW.jpg", "description": "史上最大的陆生节肢动物，长达2.5米" }
+      ]
+    },
+    {
+      "id": "cambrian",
+      "name": "寒武纪",
+      "nameEn": "Cambrian",
+      "start": 485400000,
+      "end": 541000000,
+      "color": "#4488ff",
+      "bgColor": "#000a1a",
+      "description": "生命大爆发 · 5.4亿年前",
+      "animals": [
+        { "id": "anomalocaris_canadensis", "chineseName": "奇虾", "englishName": "Anomalocaris", "scientificName": "Anomalocaris canadensis", "category": "invertebrate", "conservationStatus": "EX", "habitatCoordinates": [[51, -116], [50, -120], [52, -118]], "population": 5000000, "photoUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/41/AnomaloCaris_BW.jpg/320px-AnomaloCaris_BW.jpg", "description": "寒武纪顶级掠食者，已知最早的大型动物之一" },
+        { "id": "trilobita_sp", "chineseName": "三叶虫", "englishName": "Trilobite", "scientificName": "Trilobita sp.", "category": "invertebrate", "conservationStatus": "EX", "habitatCoordinates": [[30, 50], [0, 30], [-20, 20], [40, -80]], "population": 1000000000, "photoUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4a/Elrathia_kingii_bottom.jpg/320px-Elrathia_kingii_bottom.jpg", "description": "寒武纪最繁盛的海洋生物，存活了2.7亿年" },
+        { "id": "hallucigenia_sparsa", "chineseName": "怪诞虫", "englishName": "Hallucigenia", "scientificName": "Hallucigenia sparsa", "category": "invertebrate", "conservationStatus": "EX", "habitatCoordinates": [[51, -117], [50, -119]], "population": 10000000, "photoUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c8/Hallucigenia_BW.jpg/320px-Hallucigenia_BW.jpg", "description": "外形怪异的寒武纪生物，长有刺和触手" }
+      ]
+    },
+    {
+      "id": "precambrian",
+      "name": "前寒武纪",
+      "nameEn": "Precambrian",
+      "start": 541000000,
+      "end": 4000000000,
+      "color": "#aa44ff",
+      "bgColor": "#0a001a",
+      "description": "单细胞生物时代 · 5亿年前以上",
+      "animals": [
+        { "id": "dickinsonia_costata", "chineseName": "狄更逊水母", "englishName": "Dickinsonia", "scientificName": "Dickinsonia costata", "category": "invertebrate", "conservationStatus": "EX", "habitatCoordinates": [[-30, 135], [-35, 138], [-28, 132]], "population": 1000000000, "photoUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/73/Dickinsonia_costata.jpg/320px-Dickinsonia_costata.jpg", "description": "5.5亿年前的神秘生物，地球上最古老的多细胞生物之一" },
+        { "id": "stromatolites", "chineseName": "叠层石", "englishName": "Stromatolites", "scientificName": "Stromatolites", "category": "invertebrate", "conservationStatus": "LC", "habitatCoordinates": [[-26, 114], [25, 50], [20, 40]], "population": 1000000000000, "photoUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/12/Stromatolites_in_Sharkbay.jpg/320px-Stromatolites_in_Sharkbay.jpg", "description": "蓝藻形成的叠层石，地球上最古老的生命证据之一，35亿年前" }
+      ]
+    }
+  ]
+}

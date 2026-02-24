@@ -1,0 +1,3547 @@
+{
+  "source": "wikidata_sparql",
+  "fetchedAt": "2026-02-24",
+  "count": 236,
+  "animals": [
+    {
+      "id": "miniopterus_schreibersii",
+      "chineseName": "普通长翼蝠",
+      "scientificName": "Miniopterus schreibersii",
+      "photoUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Miniopterus%20schreibersii%2014816526.jpg",
+      "habitatCoordinates": [],
+      "conservationStatus": "易危物種",
+      "category": "mammal",
+      "wikidataId": "Q833653",
+      "foodChain": {
+        "prey": [],
+        "predators": [],
+        "role": "unknown"
+      }
+    },
+    {
+      "id": "miniopterus_fuliginosus",
+      "chineseName": "東亞摺翅蝠",
+      "scientificName": "Miniopterus fuliginosus",
+      "photoUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/%E3%83%A6%E3%83%93%E3%83%8A%E3%82%AC%E3%82%B3%E3%82%A6%E3%83%A2%E3%83%AA.jpg",
+      "habitatCoordinates": [],
+      "conservationStatus": "未知",
+      "category": "mammal",
+      "wikidataId": "Q2035122",
+      "foodChain": {
+        "prey": [],
+        "predators": [],
+        "role": "unknown"
+      }
+    },
+    {
+      "id": "miniopterus_natalensis",
+      "chineseName": "长翼蝠",
+      "scientificName": "Miniopterus natalensis",
+      "photoUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Natal%20long-fingered%20bats%20%28Miniopterus%20natalensis%29%20in%20flight%20%2848966808522%29.jpg",
+      "habitatCoordinates": [],
+      "conservationStatus": "无危物种",
+      "category": "mammal",
+      "wikidataId": "Q2047785",
+      "foodChain": {
+        "prey": [],
+        "predators": [],
+        "role": "unknown"
+      }
+    },
+    {
+      "id": "miniopterus_fuscus",
+      "chineseName": "长翼蝠",
+      "scientificName": "Miniopterus fuscus",
+      "photoUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Miniopterus%20fuscus%20from%20iNaturalist%20photo%20472163887%20%28cropped%29.jpg",
+      "habitatCoordinates": [],
+      "conservationStatus": "瀕危 (保育狀況)",
+      "category": "mammal",
+      "wikidataId": "Q2051769",
+      "foodChain": {
+        "prey": [],
+        "predators": [],
+        "role": "unknown"
+      }
+    },
+    {
+      "id": "miniopterus_australis",
+      "chineseName": "澳洲长翼蝠",
+      "scientificName": "Miniopterus australis",
+      "photoUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Little%20bent-wing%20bats.jpg",
+      "habitatCoordinates": [],
+      "conservationStatus": "无危物种",
+      "category": "mammal",
+      "wikidataId": "Q2169517",
+      "foodChain": {
+        "prey": [],
+        "predators": [],
+        "role": "unknown"
+      }
+    },
+    {
+      "id": "hipposideros_bicolor",
+      "chineseName": "双色蹄蝠",
+      "scientificName": "Hipposideros bicolor",
+      "photoUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Hipposideros%20bicolor%20illustration.jpg",
+      "habitatCoordinates": [],
+      "conservationStatus": "无危物种",
+      "category": "mammal",
+      "wikidataId": "Q307687",
+      "foodChain": {
+        "prey": [],
+        "predators": [],
+        "role": "unknown"
+      }
+    },
+    {
+      "id": "hipposideros_armiger",
+      "chineseName": "大蹄蝠",
+      "scientificName": "Hipposideros armiger",
+      "photoUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Hipposideros%20armiger%20-%20Museo%20Civico%20di%20Storia%20Naturale%20Giacomo%20Doria%20-%20Genoa%2C%20Italy%20-%20DSC02544.JPG",
+      "habitatCoordinates": [],
+      "conservationStatus": "无危物种",
+      "category": "mammal",
+      "wikidataId": "Q307787",
+      "foodChain": {
+        "prey": [],
+        "predators": [],
+        "role": "unknown"
+      }
+    },
+    {
+      "id": "hipposideros_fulvus",
+      "chineseName": "大耳小蹄蝠",
+      "scientificName": "Hipposideros fulvus",
+      "photoUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Fulvous%20Roundleaf%20Bat%20%28Hipposideros%20fulvus%29.jpg",
+      "habitatCoordinates": [],
+      "conservationStatus": "无危物种",
+      "category": "mammal",
+      "wikidataId": "Q309020",
+      "foodChain": {
+        "prey": [],
+        "predators": [],
+        "role": "unknown"
+      }
+    },
+    {
+      "id": "hipposideros_pomona",
+      "chineseName": "小蹄蝠",
+      "scientificName": "Hipposideros pomona",
+      "photoUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Naturalis%20Biodiversity%20Center%20-%20RMNH.MAM.33154.b%20ven%20-%20Hipposideros%20Pomona%20sinensis%20-%20skin.jpeg",
+      "habitatCoordinates": [],
+      "conservationStatus": "瀕危 (保育狀況)",
+      "category": "mammal",
+      "wikidataId": "Q1761748",
+      "foodChain": {
+        "prey": [],
+        "predators": [],
+        "role": "unknown"
+      }
+    },
+    {
+      "id": "hipposideros_larvatus",
+      "chineseName": "中蹄蝠",
+      "scientificName": "Hipposideros larvatus",
+      "photoUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Hippos%20larvat%20080116-3502%20hurn.JPG",
+      "habitatCoordinates": [],
+      "conservationStatus": "无危物种",
+      "category": "mammal",
+      "wikidataId": "Q1766387",
+      "foodChain": {
+        "prey": [],
+        "predators": [],
+        "role": "unknown"
+      }
+    },
+    {
+      "id": "hipposideros_pratti",
+      "chineseName": "普氏蹄蝠",
+      "scientificName": "Hipposideros pratti",
+      "photoUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Naturalis%20Biodiversity%20Center%20-%20RMNH.MAM.33155.b%20ven%20-%20Hipposideros%20pratti%20-%20skin.jpeg",
+      "habitatCoordinates": [],
+      "conservationStatus": "无危物种",
+      "category": "mammal",
+      "wikidataId": "Q1769935",
+      "foodChain": {
+        "prey": [],
+        "predators": [],
+        "role": "unknown"
+      }
+    },
+    {
+      "id": "hipposideros_commersoni",
+      "chineseName": "康氏蹄蝠",
+      "scientificName": "Hipposideros commersoni",
+      "photoUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Commerson%27s%20leaf-nosed%20bat%20%28Hipposideros%20commersoni%29.jpg",
+      "habitatCoordinates": [],
+      "conservationStatus": "未知",
+      "category": "mammal",
+      "wikidataId": "Q2595749",
+      "foodChain": {
+        "prey": [],
+        "predators": [],
+        "role": "unknown"
+      }
+    },
+    {
+      "id": "hipposideros_caffer",
+      "chineseName": "南非蹄蝠",
+      "scientificName": "Hipposideros caffer",
+      "photoUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Hipposideros%20caffer%2C%20b%2C%20Usakos.jpg",
+      "habitatCoordinates": [],
+      "conservationStatus": "无危物种",
+      "category": "mammal",
+      "wikidataId": "Q2735517",
+      "foodChain": {
+        "prey": [],
+        "predators": [],
+        "role": "unknown"
+      }
+    },
+    {
+      "id": "eumops_perotis",
+      "chineseName": "大真蝠",
+      "scientificName": "Eumops perotis",
+      "photoUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Eumops%20perotis.jpeg",
+      "habitatCoordinates": [],
+      "conservationStatus": "无危物种",
+      "category": "mammal",
+      "wikidataId": "Q301308",
+      "foodChain": {
+        "prey": [],
+        "predators": [],
+        "role": "unknown"
+      }
+    },
+    {
+      "id": "dobsonia_moluccensis",
+      "chineseName": "大裸背果蝠",
+      "scientificName": "Dobsonia moluccensis",
+      "photoUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Dobsonia%20moluccensis%20-%20Museo%20Civico%20di%20Storia%20Naturale%20Giacomo%20Doria%20-%20Genoa%2C%20Italy%20-%20DSC02537.JPG",
+      "habitatCoordinates": [],
+      "conservationStatus": "无危物种",
+      "category": "mammal",
+      "wikidataId": "Q301753",
+      "foodChain": {
+        "prey": [],
+        "predators": [],
+        "role": "unknown"
+      }
+    },
+    {
+      "id": "eumops_auripendulus",
+      "chineseName": "垂耳真蝠",
+      "scientificName": "Eumops auripendulus",
+      "photoUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Naturalis%20Biodiversity%20Center%20-%20RMNH.MAM.35852.b%20dor%20-%20Eumops%20auripendulus%20auripendulus%20-%20skin.jpeg",
+      "habitatCoordinates": [],
+      "conservationStatus": "无危物种",
+      "category": "mammal",
+      "wikidataId": "Q302070",
+      "foodChain": {
+        "prey": [],
+        "predators": [],
+        "role": "unknown"
+      }
+    },
+    {
+      "id": "tadarida_teniotis",
+      "chineseName": "宽耳犬吻蝠",
+      "scientificName": "Tadarida teniotis",
+      "photoUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Tadarida.teniotis.jpg",
+      "habitatCoordinates": [],
+      "conservationStatus": "无危物种",
+      "category": "mammal",
+      "wikidataId": "Q540069",
+      "foodChain": {
+        "prey": [],
+        "predators": [],
+        "role": "unknown"
+      }
+    },
+    {
+      "id": "tadarida_brasiliensis",
+      "chineseName": "墨西哥游離尾蝠",
+      "scientificName": "Tadarida brasiliensis",
+      "photoUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Tadarida%20brasiliensis%20-%20Bahamas%20-%20Long%20Island%20%28sic%29%20-%20Cartwright%20Cave%20-%20March%202006%20-%202.jpg",
+      "habitatCoordinates": [],
+      "conservationStatus": "无危物种",
+      "category": "mammal",
+      "wikidataId": "Q913930",
+      "foodChain": {
+        "prey": [],
+        "predators": [],
+        "role": "unknown"
+      }
+    },
+    {
+      "id": "mystacina_tuberculata",
+      "chineseName": "小短尾蝠",
+      "scientificName": "Mystacina tuberculata",
+      "photoUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/MystacinaTuberculataFord.jpg",
+      "habitatCoordinates": [],
+      "conservationStatus": "易危物種",
+      "category": "mammal",
+      "wikidataId": "Q955340",
+      "foodChain": {
+        "prey": [],
+        "predators": [],
+        "role": "unknown"
+      }
+    },
+    {
+      "id": "mystacina_robusta",
+      "chineseName": "強壯短尾蝠",
+      "scientificName": "Mystacina robusta",
+      "photoUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Mystacina%20robusta%20specimen%20from%20Auckland%20Museum.jpg",
+      "habitatCoordinates": [],
+      "conservationStatus": "極危",
+      "category": "mammal",
+      "wikidataId": "Q1066491",
+      "foodChain": {
+        "prey": [],
+        "predators": [],
+        "role": "unknown"
+      }
+    },
+    {
+      "id": "cynopterus_sphinx",
+      "chineseName": "犬蝠",
+      "scientificName": "Cynopterus sphinx",
+      "photoUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Short-nosed%20Fruit%20Bat%20%28Cynopterus%20sphinx%29%20Photograph%20By%20Shantanu%20Kuveskar.jpg",
+      "habitatCoordinates": [],
+      "conservationStatus": "无危物种",
+      "category": "mammal",
+      "wikidataId": "Q1340212",
+      "foodChain": {
+        "prey": [],
+        "predators": [],
+        "role": "unknown"
+      }
+    },
+    {
+      "id": "cynopterus_brachyotis",
+      "chineseName": "短耳犬蝠",
+      "scientificName": "Cynopterus brachyotis",
+      "photoUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Cynopterus%20brachyotis.jpg",
+      "habitatCoordinates": [],
+      "conservationStatus": "无危物种",
+      "category": "mammal",
+      "wikidataId": "Q1770782",
+      "foodChain": {
+        "prey": [],
+        "predators": [],
+        "role": "unknown"
+      }
+    },
+    {
+      "id": "nycteris_thebaica",
+      "chineseName": "埃及裂顔蝠",
+      "scientificName": "Nycteris thebaica",
+      "photoUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Nycteris%20thebaica.jpg",
+      "habitatCoordinates": [],
+      "conservationStatus": "无危物种",
+      "category": "mammal",
+      "wikidataId": "Q1830648",
+      "foodChain": {
+        "prey": [],
+        "predators": [],
+        "role": "unknown"
+      }
+    },
+    {
+      "id": "tadarida_latouchei",
+      "chineseName": "华北犬吻蝠",
+      "scientificName": "Tadarida latouchei",
+      "photoUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Tadarida%20latouchei.jpg",
+      "habitatCoordinates": [],
+      "conservationStatus": "瀕危 (保育狀況)",
+      "category": "mammal",
+      "wikidataId": "Q1830830",
+      "foodChain": {
+        "prey": [],
+        "predators": [],
+        "role": "unknown"
+      }
+    },
+    {
+      "id": "nycteris_major",
+      "chineseName": "大凹脸蝠",
+      "scientificName": "Nycteris major",
+      "photoUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Nycteris%20major.jpg",
+      "habitatCoordinates": [],
+      "conservationStatus": "数据缺乏",
+      "category": "mammal",
+      "wikidataId": "Q1831222",
+      "foodChain": {
+        "prey": [],
+        "predators": [],
+        "role": "unknown"
+      }
+    },
+    {
+      "id": "tadarida_australis",
+      "chineseName": "澳洲犬吻蝠",
+      "scientificName": "Tadarida australis",
+      "photoUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Haeckel%20Chiroptera%20Nyctophilus%20geoffroyi%20geoffroyi.jpg",
+      "habitatCoordinates": [],
+      "conservationStatus": "未知",
+      "category": "mammal",
+      "wikidataId": "Q1832774",
+      "foodChain": {
+        "prey": [],
+        "predators": [],
+        "role": "unknown"
+      }
+    },
+    {
+      "id": "tadarida_aegyptiaca",
+      "chineseName": "埃及犬吻蝠",
+      "scientificName": "Tadarida aegyptiaca",
+      "photoUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Tadarida%20aegyptiaca%20260302592.jpg",
+      "habitatCoordinates": [],
+      "conservationStatus": "无危物种",
+      "category": "mammal",
+      "wikidataId": "Q1833208",
+      "foodChain": {
+        "prey": [],
+        "predators": [],
+        "role": "unknown"
+      }
+    },
+    {
+      "id": "tadarida_insignis",
+      "chineseName": "东亚游离尾蝠",
+      "scientificName": "Tadarida insignis",
+      "photoUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Tadarida.teniotis.jpg",
+      "habitatCoordinates": [],
+      "conservationStatus": "数据缺乏",
+      "category": "mammal",
+      "wikidataId": "Q2437062",
+      "foodChain": {
+        "prey": [],
+        "predators": [],
+        "role": "unknown"
+      }
+    },
+    {
+      "id": "ia_io",
+      "chineseName": "南蝠",
+      "scientificName": "Ia io",
+      "photoUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Ia%20io.jpg",
+      "habitatCoordinates": [],
+      "conservationStatus": "近危物种",
+      "category": "mammal",
+      "wikidataId": "Q132976",
+      "foodChain": {
+        "prey": [],
+        "predators": [],
+        "role": "unknown"
+      }
+    },
+    {
+      "id": "philander_andersoni",
+      "chineseName": "安氏负鼠",
+      "scientificName": "Philander andersoni",
+      "photoUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Philander%20andersoni.jpg",
+      "habitatCoordinates": [],
+      "conservationStatus": "无危物种",
+      "category": "mammal",
+      "wikidataId": "Q194660",
+      "foodChain": {
+        "prey": [],
+        "predators": [],
+        "role": "unknown"
+      }
+    },
+    {
+      "id": "spilogale_putorius",
+      "chineseName": "斑臭鼬",
+      "scientificName": "Spilogale putorius",
+      "photoUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Spilogale%20putorius.jpg",
+      "habitatCoordinates": [],
+      "conservationStatus": "易危物種",
+      "category": "mammal",
+      "wikidataId": "Q307105",
+      "foodChain": {
+        "prey": [],
+        "predators": [],
+        "role": "unknown"
+      }
+    },
+    {
+      "id": "mephitis_mephitis",
+      "chineseName": "加拿大臭鼬",
+      "scientificName": "Mephitis mephitis",
+      "photoUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Striped%20skunk.jpg",
+      "habitatCoordinates": [],
+      "conservationStatus": "无危物种",
+      "category": "mammal",
+      "wikidataId": "Q368495",
+      "foodChain": {
+        "prey": [],
+        "predators": [],
+        "role": "unknown"
+      }
+    },
+    {
+      "id": "conepatus_chinga",
+      "chineseName": "智利獾臭鼬",
+      "scientificName": "Conepatus chinga",
+      "photoUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Chingue%20%28Conepatus%20chinga%29%20Inao%20V%C3%A1squez%20001.jpg",
+      "habitatCoordinates": [],
+      "conservationStatus": "无危物种",
+      "category": "mammal",
+      "wikidataId": "Q490248",
+      "foodChain": {
+        "prey": [],
+        "predators": [],
+        "role": "unknown"
+      }
+    },
+    {
+      "id": "perameles_bougainville",
+      "chineseName": "带袋狸",
+      "scientificName": "Perameles bougainville",
+      "photoUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Perameles%20bougainville%20-%20Gould.jpg",
+      "habitatCoordinates": [],
+      "conservationStatus": "易危物種",
+      "category": "mammal",
+      "wikidataId": "Q596243",
+      "foodChain": {
+        "prey": [],
+        "predators": [],
+        "role": "unknown"
+      }
+    },
+    {
+      "id": "conepatus_semistriatus",
+      "chineseName": "墨西哥獾臭鼬",
+      "scientificName": "Conepatus semistriatus",
+      "photoUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Conepatus%20semistriatus.jpg",
+      "habitatCoordinates": [],
+      "conservationStatus": "无危物种",
+      "category": "mammal",
+      "wikidataId": "Q688635",
+      "foodChain": {
+        "prey": [],
+        "predators": [],
+        "role": "unknown"
+      }
+    },
+    {
+      "id": "conepatus_humboldtii",
+      "chineseName": "巴塔戈尼亞獾臭鼬",
+      "scientificName": "Conepatus humboldtii",
+      "photoUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Brehms%20Het%20Leven%20der%20Dieren%20Zoogdieren%20Orde%204%20Surilho%20%28Mephitis%20suffocans%29.jpg",
+      "habitatCoordinates": [],
+      "conservationStatus": "无危物种",
+      "category": "mammal",
+      "wikidataId": "Q747238",
+      "foodChain": {
+        "prey": [],
+        "predators": [],
+        "role": "unknown"
+      }
+    },
+    {
+      "id": "perameles_gunnii",
+      "chineseName": "加氏袋狸",
+      "scientificName": "Perameles gunnii",
+      "photoUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Perameles%20gunni.jpg",
+      "habitatCoordinates": [],
+      "conservationStatus": "易危物種",
+      "category": "mammal",
+      "wikidataId": "Q856593",
+      "foodChain": {
+        "prey": [],
+        "predators": [],
+        "role": "unknown"
+      }
+    },
+    {
+      "id": "conepatus_leuconotus",
+      "chineseName": "白背獾臭鼬",
+      "scientificName": "Conepatus leuconotus",
+      "photoUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Conepatus%20leuconotus%20leuconotus%20843835.jpg",
+      "habitatCoordinates": [],
+      "conservationStatus": "无危物种",
+      "category": "mammal",
+      "wikidataId": "Q934487",
+      "foodChain": {
+        "prey": [],
+        "predators": [],
+        "role": "unknown"
+      }
+    },
+    {
+      "id": "spilogale_gracilis",
+      "chineseName": "西部斑臭鼬",
+      "scientificName": "Spilogale gracilis",
+      "photoUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Spilogale%20gracilis.jpg",
+      "habitatCoordinates": [],
+      "conservationStatus": "无危物种",
+      "category": "mammal",
+      "wikidataId": "Q971191",
+      "foodChain": {
+        "prey": [],
+        "predators": [],
+        "role": "unknown"
+      }
+    },
+    {
+      "id": "tylonycteris_pachypus",
+      "chineseName": "扁颅蝠",
+      "scientificName": "Tylonycteris pachypus",
+      "photoUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Lesser%20Bamboo%20Bat.JPG",
+      "habitatCoordinates": [],
+      "conservationStatus": "无危物种",
+      "category": "mammal",
+      "wikidataId": "Q976615",
+      "foodChain": {
+        "prey": [],
+        "predators": [],
+        "role": "unknown"
+      }
+    },
+    {
+      "id": "mephitis_macroura",
+      "chineseName": "大尾臭鼬",
+      "scientificName": "Mephitis macroura",
+      "photoUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Hooded%20Skunk%20side%20%28Gelsenkirchen%29.jpg",
+      "habitatCoordinates": [],
+      "conservationStatus": "无危物种",
+      "category": "mammal",
+      "wikidataId": "Q1068616",
+      "foodChain": {
+        "prey": [],
+        "predators": [],
+        "role": "unknown"
+      }
+    },
+    {
+      "id": "podogymnura_truei",
+      "chineseName": "裸足蝟",
+      "scientificName": "Podogymnura truei",
+      "photoUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Podogymnura%20truei.jpg",
+      "habitatCoordinates": [],
+      "conservationStatus": "无危物种",
+      "category": "mammal",
+      "wikidataId": "Q1767886",
+      "foodChain": {
+        "prey": [],
+        "predators": [],
+        "role": "unknown"
+      }
+    },
+    {
+      "id": "tylonycteris_robustula",
+      "chineseName": "褐扁颅蝠",
+      "scientificName": "Tylonycteris robustula",
+      "photoUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Naturalis%20Biodiversity%20Center%20-%20RMNH.MAM.52785.b%20dor%20-%20Tylonycteris%20robustula%20-%20skin.jpeg",
+      "habitatCoordinates": [],
+      "conservationStatus": "无危物种",
+      "category": "mammal",
+      "wikidataId": "Q1830533",
+      "foodChain": {
+        "prey": [],
+        "predators": [],
+        "role": "unknown"
+      }
+    },
+    {
+      "id": "macrotus_californicus",
+      "chineseName": "加州葉鼻蝠",
+      "scientificName": "Macrotus californicus",
+      "photoUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Macrotus%20californicus.jpg",
+      "habitatCoordinates": [],
+      "conservationStatus": "无危物种",
+      "category": "mammal",
+      "wikidataId": "Q1834586",
+      "foodChain": {
+        "prey": [],
+        "predators": [],
+        "role": "unknown"
+      }
+    },
+    {
+      "id": "conepatus_mesoleucus",
+      "chineseName": "獾臭鼬",
+      "scientificName": "Conepatus mesoleucus",
+      "photoUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Hog-nosed-skunk.png",
+      "habitatCoordinates": [],
+      "conservationStatus": "未知",
+      "category": "mammal",
+      "wikidataId": "Q2166001",
+      "foodChain": {
+        "prey": [],
+        "predators": [],
+        "role": "unknown"
+      }
+    },
+    {
+      "id": "murina_feae",
+      "chineseName": "菲氏管鼻蝠",
+      "scientificName": "Murina feae",
+      "photoUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Ashy-gray%20tube-nosed%20bat.jpg",
+      "habitatCoordinates": [],
+      "conservationStatus": "无危物种",
+      "category": "mammal",
+      "wikidataId": "Q41938286",
+      "foodChain": {
+        "prey": [],
+        "predators": [],
+        "role": "unknown"
+      }
+    },
+    {
+      "id": "phascolarctos_cinereus",
+      "chineseName": "無尾熊",
+      "scientificName": "Phascolarctos cinereus",
+      "photoUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Koala%20climbing%20tree.jpg",
+      "habitatCoordinates": [],
+      "conservationStatus": "易危物種",
+      "category": "mammal",
+      "wikidataId": "Q36101",
+      "foodChain": {
+        "prey": [],
+        "predators": [],
+        "role": "unknown"
+      }
+    },
+    {
+      "id": "myotis_nigricans",
+      "chineseName": "黑鼠耳蝠",
+      "scientificName": "Myotis nigricans",
+      "photoUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Myotis%20nigricans%20illustration.jpg",
+      "habitatCoordinates": [],
+      "conservationStatus": "无危物种",
+      "category": "mammal",
+      "wikidataId": "Q139375",
+      "foodChain": {
+        "prey": [],
+        "predators": [],
+        "role": "unknown"
+      }
+    },
+    {
+      "id": "myotis_sodalis",
+      "chineseName": "印第安纳蝙蝠",
+      "scientificName": "Myotis sodalis",
+      "photoUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Indiana%20Bat%20FWS.jpg",
+      "habitatCoordinates": [],
+      "conservationStatus": "近危物种",
+      "category": "mammal",
+      "wikidataId": "Q281343",
+      "foodChain": {
+        "prey": [],
+        "predators": [],
+        "role": "unknown"
+      }
+    },
+    {
+      "id": "myotis_emarginatus",
+      "chineseName": "佐氏鼠耳蝠",
+      "scientificName": "Myotis emarginatus",
+      "photoUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/%D0%9B%D0%B5%D1%82%D1%83%D1%87%D0%B0%D1%8F%20%D0%BC%D1%8B%D1%88%D1%8C%20%D0%B2%20%D1%81%D1%82%D0%B5%D0%BD%D0%B5%20%D1%83%D1%89%D0%B5%D0%BB%D1%8C%D1%8F.jpg",
+      "habitatCoordinates": [],
+      "conservationStatus": "无危物种",
+      "category": "mammal",
+      "wikidataId": "Q283403",
+      "foodChain": {
+        "prey": [],
+        "predators": [],
+        "role": "unknown"
+      }
+    },
+    {
+      "id": "atelerix_sclateri",
+      "chineseName": "索马里刺猬",
+      "scientificName": "Atelerix sclateri",
+      "photoUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Atelerix%20sclateri.JPG",
+      "habitatCoordinates": [],
+      "conservationStatus": "无危物种",
+      "category": "mammal",
+      "wikidataId": "Q301565",
+      "foodChain": {
+        "prey": [],
+        "predators": [],
+        "role": "unknown"
+      }
+    },
+    {
+      "id": "lasiorhinus_latifrons",
+      "chineseName": "南澳毛吻袋熊",
+      "scientificName": "Lasiorhinus latifrons",
+      "photoUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Haarnasenwombat%20%28Lasiorhinus%20krefftii%29.jpg",
+      "habitatCoordinates": [],
+      "conservationStatus": "无危物种",
+      "category": "mammal",
+      "wikidataId": "Q475449",
+      "foodChain": {
+        "prey": [],
+        "predators": [],
+        "role": "unknown"
+      }
+    },
+    {
+      "id": "myotis_formosus",
+      "chineseName": "金黄鼠耳蝠",
+      "scientificName": "Myotis formosus",
+      "photoUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/VespertilioFormosusFord.jpg",
+      "habitatCoordinates": [],
+      "conservationStatus": "近危物种",
+      "category": "mammal",
+      "wikidataId": "Q495156",
+      "foodChain": {
+        "prey": [],
+        "predators": [],
+        "role": "unknown"
+      }
+    },
+    {
+      "id": "myotis_daubentonii",
+      "chineseName": "水鼠耳蝠",
+      "scientificName": "Myotis daubentonii",
+      "photoUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Myotis%20daubentoni01.jpg",
+      "habitatCoordinates": [],
+      "conservationStatus": "无危物种",
+      "category": "mammal",
+      "wikidataId": "Q504488",
+      "foodChain": {
+        "prey": [],
+        "predators": [],
+        "role": "unknown"
+      }
+    },
+    {
+      "id": "myotis_mystacinus",
+      "chineseName": "须鼠耳蝠",
+      "scientificName": "Myotis mystacinus",
+      "photoUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Myotis%20mystacinus.jpg",
+      "habitatCoordinates": [],
+      "conservationStatus": "无危物种",
+      "category": "mammal",
+      "wikidataId": "Q508013",
+      "foodChain": {
+        "prey": [],
+        "predators": [],
+        "role": "unknown"
+      }
+    },
+    {
+      "id": "myotis_brandtii",
+      "chineseName": "布氏鼠耳蝠",
+      "scientificName": "Myotis brandtii",
+      "photoUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Myotis%20brandti.jpg",
+      "habitatCoordinates": [],
+      "conservationStatus": "无危物种",
+      "category": "mammal",
+      "wikidataId": "Q599519",
+      "foodChain": {
+        "prey": [],
+        "predators": [],
+        "role": "unknown"
+      }
+    },
+    {
+      "id": "myotis_nattereri",
+      "chineseName": "纳氏鼠耳蝠",
+      "scientificName": "Myotis nattereri",
+      "photoUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Myotis%20nattereri%20%282862347369%29.jpg",
+      "habitatCoordinates": [],
+      "conservationStatus": "无危物种",
+      "category": "mammal",
+      "wikidataId": "Q723123",
+      "foodChain": {
+        "prey": [],
+        "predators": [],
+        "role": "unknown"
+      }
+    },
+    {
+      "id": "myotis_myotis",
+      "chineseName": "大鼠耳蝠",
+      "scientificName": "Myotis myotis",
+      "photoUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Myotis.jpg",
+      "habitatCoordinates": [],
+      "conservationStatus": "无危物种",
+      "category": "mammal",
+      "wikidataId": "Q723413",
+      "foodChain": {
+        "prey": [],
+        "predators": [],
+        "role": "unknown"
+      }
+    },
+    {
+      "id": "myotis_dasycneme",
+      "chineseName": "沼泽鼠耳蝠",
+      "scientificName": "Myotis dasycneme",
+      "photoUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Myotis%20dasycneme.jpg",
+      "habitatCoordinates": [],
+      "conservationStatus": "近危物种",
+      "category": "mammal",
+      "wikidataId": "Q737766",
+      "foodChain": {
+        "prey": [],
+        "predators": [],
+        "role": "unknown"
+      }
+    },
+    {
+      "id": "myotis_lucifugus",
+      "chineseName": "小棕蝠",
+      "scientificName": "Myotis lucifugus",
+      "photoUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Little%20Brown%20Bat%20FWS.jpg",
+      "habitatCoordinates": [],
+      "conservationStatus": "瀕危 (保育狀況)",
+      "category": "mammal",
+      "wikidataId": "Q746127",
+      "foodChain": {
+        "prey": [],
+        "predators": [],
+        "role": "unknown"
+      }
+    },
+    {
+      "id": "myotis_bechsteinii",
+      "chineseName": "贝氏鼠耳蝠",
+      "scientificName": "Myotis bechsteinii",
+      "photoUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Vespertilion%20bechstein.jpg",
+      "habitatCoordinates": [],
+      "conservationStatus": "近危物种",
+      "category": "mammal",
+      "wikidataId": "Q756687",
+      "foodChain": {
+        "prey": [],
+        "predators": [],
+        "role": "unknown"
+      }
+    },
+    {
+      "id": "myotis_blythii",
+      "chineseName": "尖耳鼠耳蝠",
+      "scientificName": "Myotis blythii",
+      "photoUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Myotis-blythii-cropped.jpg",
+      "habitatCoordinates": [],
+      "conservationStatus": "无危物种",
+      "category": "mammal",
+      "wikidataId": "Q836231",
+      "foodChain": {
+        "prey": [],
+        "predators": [],
+        "role": "unknown"
+      }
+    },
+    {
+      "id": "atelerix_albiventris",
+      "chineseName": "西非刺猬",
+      "scientificName": "Atelerix albiventris",
+      "photoUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Atelerix%20albiventris%20in%20Spain.jpg",
+      "habitatCoordinates": [],
+      "conservationStatus": "无危物种",
+      "category": "mammal",
+      "wikidataId": "Q836725",
+      "foodChain": {
+        "prey": [],
+        "predators": [],
+        "role": "unknown"
+      }
+    },
+    {
+      "id": "atelerix_algirus",
+      "chineseName": "北非刺猬",
+      "scientificName": "Atelerix algirus",
+      "photoUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Atelerix%20algirus.jpg",
+      "habitatCoordinates": [],
+      "conservationStatus": "无危物种",
+      "category": "mammal",
+      "wikidataId": "Q840762",
+      "foodChain": {
+        "prey": [],
+        "predators": [],
+        "role": "unknown"
+      }
+    },
+    {
+      "id": "myotis_capaccinii",
+      "chineseName": "节鼠耳蝠",
+      "scientificName": "Myotis capaccinii",
+      "photoUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Myotis%20capaccinii%200105b.jpg",
+      "habitatCoordinates": [],
+      "conservationStatus": "易危物種",
+      "category": "mammal",
+      "wikidataId": "Q912118",
+      "foodChain": {
+        "prey": [],
+        "predators": [],
+        "role": "unknown"
+      }
+    },
+    {
+      "id": "lasiorhinus_krefftii",
+      "chineseName": "澳洲毛吻袋熊",
+      "scientificName": "Lasiorhinus krefftii",
+      "photoUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Haarnasenwombat%20%28Lasiorhinus%20krefftii%29.jpg",
+      "habitatCoordinates": [],
+      "conservationStatus": "極危",
+      "category": "mammal",
+      "wikidataId": "Q1134186",
+      "foodChain": {
+        "prey": [],
+        "predators": [],
+        "role": "unknown"
+      }
+    },
+    {
+      "id": "atelerix_frontalis",
+      "chineseName": "南非刺猬",
+      "scientificName": "Atelerix frontalis",
+      "photoUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Hedgehogright.jpg",
+      "habitatCoordinates": [],
+      "conservationStatus": "无危物种",
+      "category": "mammal",
+      "wikidataId": "Q1416175",
+      "foodChain": {
+        "prey": [],
+        "predators": [],
+        "role": "unknown"
+      }
+    },
+    {
+      "id": "myotis_adversus",
+      "chineseName": "郝氏鼠耳蝠",
+      "scientificName": "Myotis adversus",
+      "photoUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Naturalis%20Biodiversity%20Center%20-%20RMNH.MAM.52789.b%20ven%20-%20Myotis%20adversus%20-%20skin.jpeg",
+      "habitatCoordinates": [],
+      "conservationStatus": "无危物种",
+      "category": "mammal",
+      "wikidataId": "Q1830512",
+      "foodChain": {
+        "prey": [],
+        "predators": [],
+        "role": "unknown"
+      }
+    },
+    {
+      "id": "myotis_muricola",
+      "chineseName": "喜山鼠耳蝠",
+      "scientificName": "Myotis muricola",
+      "photoUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Myoti%20murico%20060615%207419%20cklpa.jpg",
+      "habitatCoordinates": [],
+      "conservationStatus": "无危物种",
+      "category": "mammal",
+      "wikidataId": "Q1830703",
+      "foodChain": {
+        "prey": [],
+        "predators": [],
+        "role": "unknown"
+      }
+    },
+    {
+      "id": "myotis_macrodactylus",
+      "chineseName": "大趾鼠耳蝠",
+      "scientificName": "Myotis macrodactylus",
+      "photoUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Vespertilio%20macrodactylus%20-%201700-1880%20-%20Print%20-%20Iconographia%20Zoologica%20-%20Special%20Collections%20University%20of%20Amsterdam%20-%20UBA01%20IZ20800145.tif",
+      "habitatCoordinates": [],
+      "conservationStatus": "无危物种",
+      "category": "mammal",
+      "wikidataId": "Q1830718",
+      "foodChain": {
+        "prey": [],
+        "predators": [],
+        "role": "unknown"
+      }
+    },
+    {
+      "id": "myotis_chiloensis",
+      "chineseName": "智利鼠耳蝠",
+      "scientificName": "Myotis chiloensis",
+      "photoUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Myotis%20chiloensis.jpg",
+      "habitatCoordinates": [],
+      "conservationStatus": "无危物种",
+      "category": "mammal",
+      "wikidataId": "Q1830919",
+      "foodChain": {
+        "prey": [],
+        "predators": [],
+        "role": "unknown"
+      }
+    },
+    {
+      "id": "myotis_evotis",
+      "chineseName": "长耳鼠耳蝠",
+      "scientificName": "Myotis evotis",
+      "photoUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Long-eared%20myotis.jpg",
+      "habitatCoordinates": [],
+      "conservationStatus": "无危物种",
+      "category": "mammal",
+      "wikidataId": "Q1830933",
+      "foodChain": {
+        "prey": [],
+        "predators": [],
+        "role": "unknown"
+      }
+    },
+    {
+      "id": "myotis_frater",
+      "chineseName": "长尾鼠耳蝠",
+      "scientificName": "Myotis frater",
+      "photoUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Myotis%20frater%202001%20stamp%20of%20Uzbekistan.jpg",
+      "habitatCoordinates": [],
+      "conservationStatus": "无危物种",
+      "category": "mammal",
+      "wikidataId": "Q1831652",
+      "foodChain": {
+        "prey": [],
+        "predators": [],
+        "role": "unknown"
+      }
+    },
+    {
+      "id": "myotis_leibii",
+      "chineseName": "东小足蝙蝠",
+      "scientificName": "Myotis leibii",
+      "photoUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Myotis%20leibii.jpg",
+      "habitatCoordinates": [],
+      "conservationStatus": "瀕危 (保育狀況)",
+      "category": "mammal",
+      "wikidataId": "Q1832366",
+      "foodChain": {
+        "prey": [],
+        "predators": [],
+        "role": "unknown"
+      }
+    },
+    {
+      "id": "myotis_montivagus",
+      "chineseName": "山地鼠耳蝠",
+      "scientificName": "Myotis montivagus",
+      "photoUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Myotis%20montivagus.jpg",
+      "habitatCoordinates": [],
+      "conservationStatus": "数据缺乏",
+      "category": "mammal",
+      "wikidataId": "Q1832790",
+      "foodChain": {
+        "prey": [],
+        "predators": [],
+        "role": "unknown"
+      }
+    },
+    {
+      "id": "atelerix_albiventris__atelerix_algirus",
+      "chineseName": "寵物刺蝟",
+      "scientificName": "Atelerix albiventris × Atelerix algirus",
+      "photoUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Domesticated%20Baby%20Hedgehog.jpg",
+      "habitatCoordinates": [],
+      "conservationStatus": "未知",
+      "category": "mammal",
+      "wikidataId": "Q5290234",
+      "foodChain": {
+        "prey": [],
+        "predators": [],
+        "role": "unknown"
+      }
+    },
+    {
+      "id": "pteropus_seychellensis",
+      "chineseName": "塞舌尔狐蝠",
+      "scientificName": "Pteropus seychellensis",
+      "photoUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Pteropus%20seychellensis.jpg",
+      "habitatCoordinates": [],
+      "conservationStatus": "无危物种",
+      "category": "mammal",
+      "wikidataId": "Q18928",
+      "foodChain": {
+        "prey": [],
+        "predators": [],
+        "role": "unknown"
+      }
+    },
+    {
+      "id": "pteropus_rufus",
+      "chineseName": "马达加斯加果蝠",
+      "scientificName": "Pteropus rufus",
+      "photoUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Pteropus%20rufus%20ii.jpg",
+      "habitatCoordinates": [],
+      "conservationStatus": "易危物種",
+      "category": "mammal",
+      "wikidataId": "Q18929",
+      "foodChain": {
+        "prey": [],
+        "predators": [],
+        "role": "unknown"
+      }
+    },
+    {
+      "id": "pteropus_giganteus",
+      "chineseName": "印度大狐蝠",
+      "scientificName": "Pteropus giganteus",
+      "photoUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/047%20Indian%20flying%20fox%20in%20Keoladeo%20National%20Park%20Photo%20by%20Giles%20Laurent.jpg",
+      "habitatCoordinates": [],
+      "conservationStatus": "近危物种",
+      "category": "mammal",
+      "wikidataId": "Q285810",
+      "foodChain": {
+        "prey": [],
+        "predators": [],
+        "role": "unknown"
+      }
+    },
+    {
+      "id": "epomops_franqueti",
+      "chineseName": "富氏饰肩果蝠",
+      "scientificName": "Epomops franqueti",
+      "photoUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/EpomophorusFranquetiFord.jpg",
+      "habitatCoordinates": [],
+      "conservationStatus": "无危物种",
+      "category": "mammal",
+      "wikidataId": "Q303030",
+      "foodChain": {
+        "prey": [],
+        "predators": [],
+        "role": "unknown"
+      }
+    },
+    {
+      "id": "epomops_buettikoferi",
+      "chineseName": "加纳饰肩果蝠",
+      "scientificName": "Epomops buettikoferi",
+      "photoUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Epomops%20buettikoferi.jpg",
+      "habitatCoordinates": [],
+      "conservationStatus": "无危物种",
+      "category": "mammal",
+      "wikidataId": "Q305728",
+      "foodChain": {
+        "prey": [],
+        "predators": [],
+        "role": "unknown"
+      }
+    },
+    {
+      "id": "aselliscus_stoliczkanus",
+      "chineseName": "三叶蹄蝠",
+      "scientificName": "Aselliscus stoliczkanus",
+      "photoUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Stoliczka%27s%20trident%20bat.png",
+      "habitatCoordinates": [],
+      "conservationStatus": "无危物种",
+      "category": "mammal",
+      "wikidataId": "Q307762",
+      "foodChain": {
+        "prey": [],
+        "predators": [],
+        "role": "unknown"
+      }
+    },
+    {
+      "id": "macrotis_lagotis",
+      "chineseName": "兔耳袋狸",
+      "scientificName": "Macrotis lagotis",
+      "photoUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Bilby%20at%20Sydney%20Wildlife%20World.jpg",
+      "habitatCoordinates": [],
+      "conservationStatus": "易危物種",
+      "category": "mammal",
+      "wikidataId": "Q371667",
+      "foodChain": {
+        "prey": [],
+        "predators": [],
+        "role": "unknown"
+      }
+    },
+    {
+      "id": "styloctenium_wallacei",
+      "chineseName": "花面狐蝠",
+      "scientificName": "Styloctenium wallacei",
+      "photoUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Styloctenium%20wallacei%20AB%20Meyer.jpg",
+      "habitatCoordinates": [],
+      "conservationStatus": "近危物种",
+      "category": "mammal",
+      "wikidataId": "Q576724",
+      "foodChain": {
+        "prey": [],
+        "predators": [],
+        "role": "unknown"
+      }
+    },
+    {
+      "id": "mormoops_blainvillei",
+      "chineseName": "安德列斯怪臉蝠",
+      "scientificName": "Mormoops blainvillei",
+      "photoUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Mormoops%20blainvillii.jpg",
+      "habitatCoordinates": [],
+      "conservationStatus": "无危物种",
+      "category": "mammal",
+      "wikidataId": "Q593221",
+      "foodChain": {
+        "prey": [],
+        "predators": [],
+        "role": "unknown"
+      }
+    },
+    {
+      "id": "rousettus_madagascariensis",
+      "chineseName": "马达加斯加果蝠",
+      "scientificName": "Rousettus madagascariensis",
+      "photoUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Rousettus%20madagascariensis%202.png",
+      "habitatCoordinates": [],
+      "conservationStatus": "易危物種",
+      "category": "mammal",
+      "wikidataId": "Q745958",
+      "foodChain": {
+        "prey": [],
+        "predators": [],
+        "role": "unknown"
+      }
+    },
+    {
+      "id": "rousettus_aegyptiacus",
+      "chineseName": "埃及果蝠",
+      "scientificName": "Rousettus aegyptiacus",
+      "photoUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Rousettus%20egypticus.jpg",
+      "habitatCoordinates": [],
+      "conservationStatus": "无危物种",
+      "category": "mammal",
+      "wikidataId": "Q754983",
+      "foodChain": {
+        "prey": [],
+        "predators": [],
+        "role": "unknown"
+      }
+    },
+    {
+      "id": "mormoops_megalophylla",
+      "chineseName": "大叶怪脸蝠",
+      "scientificName": "Mormoops megalophylla",
+      "photoUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Mormoops%20megalophylla.JPG",
+      "habitatCoordinates": [],
+      "conservationStatus": "无危物种",
+      "category": "mammal",
+      "wikidataId": "Q785067",
+      "foodChain": {
+        "prey": [],
+        "predators": [],
+        "role": "unknown"
+      }
+    },
+    {
+      "id": "eonycteris_spelaea",
+      "chineseName": "长舌果蝠",
+      "scientificName": "Eonycteris spelaea",
+      "photoUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Eonycteris%20spelaea.jpg",
+      "habitatCoordinates": [],
+      "conservationStatus": "无危物种",
+      "category": "mammal",
+      "wikidataId": "Q971953",
+      "foodChain": {
+        "prey": [],
+        "predators": [],
+        "role": "unknown"
+      }
+    },
+    {
+      "id": "rhynchocyon_udzungwensis",
+      "chineseName": "灰臉象尖鼠",
+      "scientificName": "Rhynchocyon udzungwensis",
+      "photoUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Rhynchocyon%20udzungwensis%20Tanzania%20F.%20Rovero.jpg",
+      "habitatCoordinates": [],
+      "conservationStatus": "易危物種",
+      "category": "mammal",
+      "wikidataId": "Q1122641",
+      "foodChain": {
+        "prey": [],
+        "predators": [],
+        "role": "unknown"
+      }
+    },
+    {
+      "id": "rhynchocyon_chrysopygus",
+      "chineseName": "黄臀象鼩",
+      "scientificName": "Rhynchocyon chrysopygus",
+      "photoUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Rhynchocyon%20chrysopygus-J%20Smit.jpg",
+      "habitatCoordinates": [],
+      "conservationStatus": "瀕危 (保育狀況)",
+      "category": "mammal",
+      "wikidataId": "Q1333257",
+      "foodChain": {
+        "prey": [],
+        "predators": [],
+        "role": "unknown"
+      }
+    },
+    {
+      "id": "rhynchocyon_petersi",
+      "chineseName": "黑象鼩",
+      "scientificName": "Rhynchocyon petersi",
+      "photoUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Rhynchocyon%20petersi%20one.JPG",
+      "habitatCoordinates": [],
+      "conservationStatus": "无危物种",
+      "category": "mammal",
+      "wikidataId": "Q1422628",
+      "foodChain": {
+        "prey": [],
+        "predators": [],
+        "role": "unknown"
+      }
+    },
+    {
+      "id": "coelops_frithii",
+      "chineseName": "无尾蹄蝠",
+      "scientificName": "Coelops frithii",
+      "photoUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Coelops%20frithii.jpg",
+      "habitatCoordinates": [],
+      "conservationStatus": "近危物种",
+      "category": "mammal",
+      "wikidataId": "Q1766290",
+      "foodChain": {
+        "prey": [],
+        "predators": [],
+        "role": "unknown"
+      }
+    },
+    {
+      "id": "rhinopoma_muscatellum",
+      "chineseName": "鼠尾蝠",
+      "scientificName": "Rhinopoma muscatellum",
+      "photoUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Small%20mouse-tailed%20bat.jpg",
+      "habitatCoordinates": [],
+      "conservationStatus": "无危物种",
+      "category": "mammal",
+      "wikidataId": "Q1829849",
+      "foodChain": {
+        "prey": [],
+        "predators": [],
+        "role": "unknown"
+      }
+    },
+    {
+      "id": "rhinopoma_microphyllum",
+      "chineseName": "大鼠尾蝠",
+      "scientificName": "Rhinopoma microphyllum",
+      "photoUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Greater%20Mouse-tailed%20bat%28Rhinopoma%20microphyllum%29.jpg",
+      "habitatCoordinates": [],
+      "conservationStatus": "无危物种",
+      "category": "mammal",
+      "wikidataId": "Q1830890",
+      "foodChain": {
+        "prey": [],
+        "predators": [],
+        "role": "unknown"
+      }
+    },
+    {
+      "id": "rhinopoma_hardwickii",
+      "chineseName": "小鼠尾蝠",
+      "scientificName": "Rhinopoma hardwickii",
+      "photoUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Lesser%20Mouse-%20tailed%20Bat%20%28Rhinopoma%20hardwickii%29.jpg",
+      "habitatCoordinates": [],
+      "conservationStatus": "无危物种",
+      "category": "mammal",
+      "wikidataId": "Q1830962",
+      "foodChain": {
+        "prey": [],
+        "predators": [],
+        "role": "unknown"
+      }
+    },
+    {
+      "id": "chaerephon_pumilus",
+      "chineseName": "小无尾蝙蝠",
+      "scientificName": "Chaerephon pumilus",
+      "photoUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Tadarida%20pumila.png",
+      "habitatCoordinates": [],
+      "conservationStatus": "无危物种",
+      "category": "mammal",
+      "wikidataId": "Q149317",
+      "foodChain": {
+        "prey": [],
+        "predators": [],
+        "role": "unknown"
+      }
+    },
+    {
+      "id": "monodelphis_brevicaudata",
+      "chineseName": "短尾负鼠",
+      "scientificName": "Monodelphis brevicaudata",
+      "photoUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Monodelphis%20brevicaudata%20skull%20-%20ZooKeys%20465-08.png",
+      "habitatCoordinates": [],
+      "conservationStatus": "无危物种",
+      "category": "mammal",
+      "wikidataId": "Q194458",
+      "foodChain": {
+        "prey": [],
+        "predators": [],
+        "role": "unknown"
+      }
+    },
+    {
+      "id": "monodelphis_domestica",
+      "chineseName": "无袋灰色短尾负鼠",
+      "scientificName": "Monodelphis domestica",
+      "photoUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Monodelphis%20domestica.jpg",
+      "habitatCoordinates": [],
+      "conservationStatus": "无危物种",
+      "category": "mammal",
+      "wikidataId": "Q194472",
+      "foodChain": {
+        "prey": [],
+        "predators": [],
+        "role": "unknown"
+      }
+    },
+    {
+      "id": "thylamys_pallidior",
+      "chineseName": "白鼠负鼠",
+      "scientificName": "Thylamys pallidior",
+      "photoUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/White-bellied%20Fat-tailed%20Mouse%20Opossum%20imported%20from%20iNaturalist%20photo%20316383502%20on%2018%20February%202024.jpg",
+      "habitatCoordinates": [],
+      "conservationStatus": "无危物种",
+      "category": "mammal",
+      "wikidataId": "Q195012",
+      "foodChain": {
+        "prey": [],
+        "predators": [],
+        "role": "unknown"
+      }
+    },
+    {
+      "id": "hylomys_suillus",
+      "chineseName": "小毛猬",
+      "scientificName": "Hylomys suillus",
+      "photoUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Hylomys%20suillus%20-%20Naturmuseum%20Senckenberg%20-%20DSC02077a.JPG",
+      "habitatCoordinates": [],
+      "conservationStatus": "无危物种",
+      "category": "mammal",
+      "wikidataId": "Q602913",
+      "foodChain": {
+        "prey": [],
+        "predators": [],
+        "role": "unknown"
+      }
+    },
+    {
+      "id": "phyllostomus_discolor",
+      "chineseName": "苍白矛吻蝠",
+      "scientificName": "Phyllostomus discolor",
+      "photoUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Phyllostomus%20discolor2b.jpg",
+      "habitatCoordinates": [],
+      "conservationStatus": "无危物种",
+      "category": "mammal",
+      "wikidataId": "Q919087",
+      "foodChain": {
+        "prey": [],
+        "predators": [],
+        "role": "unknown"
+      }
+    },
+    {
+      "id": "phyllostomus_hastatus",
+      "chineseName": "矛吻蝠",
+      "scientificName": "Phyllostomus hastatus",
+      "photoUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Phyllostomus%20hastatus.jpg",
+      "habitatCoordinates": [],
+      "conservationStatus": "无危物种",
+      "category": "mammal",
+      "wikidataId": "Q1548283",
+      "foodChain": {
+        "prey": [],
+        "predators": [],
+        "role": "unknown"
+      }
+    },
+    {
+      "id": "bonasa_umbellus",
+      "chineseName": "披肩榛鸡",
+      "scientificName": "Bonasa umbellus",
+      "photoUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Bonasa-umbellus-001edit1.jpg",
+      "habitatCoordinates": [],
+      "conservationStatus": "无危物种",
+      "category": "bird",
+      "wikidataId": "Q19058",
+      "foodChain": {
+        "prey": [],
+        "predators": [],
+        "role": "unknown"
+      }
+    },
+    {
+      "id": "aphantochroa_cirrochloris",
+      "chineseName": "暗色蜂鸟",
+      "scientificName": "Aphantochroa cirrochloris",
+      "photoUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Aphantochroa%20cirrochloris-3.jpg",
+      "habitatCoordinates": [],
+      "conservationStatus": "无危物种",
+      "category": "bird",
+      "wikidataId": "Q31774",
+      "foodChain": {
+        "prey": [],
+        "predators": [],
+        "role": "unknown"
+      }
+    },
+    {
+      "id": "androdon_aequatorialis",
+      "chineseName": "齿嘴蜂鸟",
+      "scientificName": "Androdon aequatorialis",
+      "photoUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Tooth-billed%20Hummingbird.jpg",
+      "habitatCoordinates": [],
+      "conservationStatus": "无危物种",
+      "category": "bird",
+      "wikidataId": "Q143941",
+      "foodChain": {
+        "prey": [],
+        "predators": [],
+        "role": "unknown"
+      }
+    },
+    {
+      "id": "pipile_pipile",
+      "chineseName": "普通鳴冠雉",
+      "scientificName": "Pipile pipile",
+      "photoUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Trinidad%20piping-guan.jpg",
+      "habitatCoordinates": [],
+      "conservationStatus": "極危",
+      "category": "bird",
+      "wikidataId": "Q212526",
+      "foodChain": {
+        "prey": [],
+        "predators": [],
+        "role": "unknown"
+      }
+    },
+    {
+      "id": "acryllium_vulturinum",
+      "chineseName": "鹫珠鸡",
+      "scientificName": "Acryllium vulturinum",
+      "photoUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Acryllium%20vulturinum%20-Tsavo%20East%20National%20Park%2C%20Kenya-8.jpg",
+      "habitatCoordinates": [],
+      "conservationStatus": "无危物种",
+      "category": "bird",
+      "wikidataId": "Q390270",
+      "foodChain": {
+        "prey": [],
+        "predators": [],
+        "role": "unknown"
+      }
+    },
+    {
+      "id": "anopetia_gounellei",
+      "chineseName": "闊尾隱蜂鳥",
+      "scientificName": "Anopetia gounellei",
+      "photoUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Broad-tipped%20Hermit%20Anopetia%20gounellei.jpg",
+      "habitatCoordinates": [],
+      "conservationStatus": "无危物种",
+      "category": "bird",
+      "wikidataId": "Q518531",
+      "foodChain": {
+        "prey": [],
+        "predators": [],
+        "role": "unknown"
+      }
+    },
+    {
+      "id": "alectura_lathami",
+      "chineseName": "叢塚雉",
+      "scientificName": "Alectura lathami",
+      "photoUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Alectura%20lathami%20-%20Centenary%20Lakes.jpg",
+      "habitatCoordinates": [],
+      "conservationStatus": "无危物种",
+      "category": "bird",
+      "wikidataId": "Q632066",
+      "foodChain": {
+        "prey": [],
+        "predators": [],
+        "role": "unknown"
+      }
+    },
+    {
+      "id": "odontophorus_melanonotus",
+      "chineseName": "暗背林鹑",
+      "scientificName": "Odontophorus melanonotus",
+      "photoUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Dark-backed%20Wood-quail%20%28Odontophorus%20melanonotus%29%20%285198407854%29.jpg",
+      "habitatCoordinates": [],
+      "conservationStatus": "无危物种",
+      "category": "bird",
+      "wikidataId": "Q742535",
+      "foodChain": {
+        "prey": [],
+        "predators": [],
+        "role": "unknown"
+      }
+    },
+    {
+      "id": "anthocephala_floriceps",
+      "chineseName": "花顶蜂鸟",
+      "scientificName": "Anthocephala floriceps",
+      "photoUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Anthocephala%20floriceps.jpg",
+      "habitatCoordinates": [],
+      "conservationStatus": "易危物種",
+      "category": "bird",
+      "wikidataId": "Q772052",
+      "foodChain": {
+        "prey": [],
+        "predators": [],
+        "role": "unknown"
+      }
+    },
+    {
+      "id": "chrysuronia_oenone",
+      "chineseName": "金尾蜂鸟",
+      "scientificName": "Chrysuronia oenone",
+      "photoUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Colibr%C3%AD%20Cola%20de%20Oro%20%28Golden-tailed%20Sapphire%20Hummingbird%29.jpg",
+      "habitatCoordinates": [],
+      "conservationStatus": "无危物种",
+      "category": "bird",
+      "wikidataId": "Q775398",
+      "foodChain": {
+        "prey": [],
+        "predators": [],
+        "role": "unknown"
+      }
+    },
+    {
+      "id": "eulipoa_wallacei",
+      "chineseName": "摩鹿加塚雉",
+      "scientificName": "Eulipoa wallacei",
+      "photoUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/PaintedMegapode.jpg",
+      "habitatCoordinates": [],
+      "conservationStatus": "易危物種",
+      "category": "bird",
+      "wikidataId": "Q795498",
+      "foodChain": {
+        "prey": [],
+        "predators": [],
+        "role": "unknown"
+      }
+    },
+    {
+      "id": "clytolaema_rubricauda",
+      "chineseName": "红玉蜂鸟",
+      "scientificName": "Clytolaema rubricauda",
+      "photoUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Clytolaema%20rubricauda%20-Ubatuba%2C%20Sao%20Paulo%2C%20Brazil%20-male-8a.jpg",
+      "habitatCoordinates": [],
+      "conservationStatus": "无危物种",
+      "category": "bird",
+      "wikidataId": "Q868051",
+      "foodChain": {
+        "prey": [],
+        "predators": [],
+        "role": "unknown"
+      }
+    },
+    {
+      "id": "odontophorus_balliviani",
+      "chineseName": "纹颊林鹑",
+      "scientificName": "Odontophorus balliviani",
+      "photoUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Lossy-page1-2932px-Odontophorus%20balliviani%20-%201820-1863%20-%20Print%20-%20Iconographia%20Zoologica%20-%20Special%20Collections%20University%20of%20Amsterdam%20-%20UBA01%20IZ17100199.png",
+      "habitatCoordinates": [],
+      "conservationStatus": "无危物种",
+      "category": "bird",
+      "wikidataId": "Q875936",
+      "foodChain": {
+        "prey": [],
+        "predators": [],
+        "role": "unknown"
+      }
+    },
+    {
+      "id": "leipoa_ocellata",
+      "chineseName": "斑眼塚雉",
+      "scientificName": "Leipoa ocellata",
+      "photoUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Leipoa%20ocellata.jpg",
+      "habitatCoordinates": [],
+      "conservationStatus": "易危物種",
+      "category": "bird",
+      "wikidataId": "Q901228",
+      "foodChain": {
+        "prey": [],
+        "predators": [],
+        "role": "unknown"
+      }
+    },
+    {
+      "id": "odontophorus_gujanensis",
+      "chineseName": "云斑林鹑",
+      "scientificName": "Odontophorus gujanensis",
+      "photoUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Marbled%20Wood-Quail%20-%20Rio%20Tigre%20-%20Costa%20Rica%20MG%207758%20%2826101675664%29.jpg",
+      "habitatCoordinates": [],
+      "conservationStatus": "无危物种",
+      "category": "bird",
+      "wikidataId": "Q929945",
+      "foodChain": {
+        "prey": [],
+        "predators": [],
+        "role": "unknown"
+      }
+    },
+    {
+      "id": "pipile_jacutinga",
+      "chineseName": "黑額鳴冠雉",
+      "scientificName": "Pipile jacutinga",
+      "photoUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Aburria%20jacutinga%20-Parque%20das%20Aves-8.jpg",
+      "habitatCoordinates": [],
+      "conservationStatus": "瀕危 (保育狀況)",
+      "category": "bird",
+      "wikidataId": "Q944945",
+      "foodChain": {
+        "prey": [],
+        "predators": [],
+        "role": "unknown"
+      }
+    },
+    {
+      "id": "avocettula_recurvirostris",
+      "chineseName": "翘嘴蜂鸟",
+      "scientificName": "Avocettula recurvirostris",
+      "photoUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Avocettula%20recurvirostris%20Fiery-tailed%20Awlbill%2C%20Guyana%2002%20%28cropped%29.jpg",
+      "habitatCoordinates": [],
+      "conservationStatus": "无危物种",
+      "category": "bird",
+      "wikidataId": "Q1028657",
+      "foodChain": {
+        "prey": [],
+        "predators": [],
+        "role": "unknown"
+      }
+    },
+    {
+      "id": "pipile_cujubi",
+      "chineseName": "红喉鸣冠雉",
+      "scientificName": "Pipile cujubi",
+      "photoUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Red-throated%20piping%20guan%20%28Pipile%20cujubi%29.JPG",
+      "habitatCoordinates": [],
+      "conservationStatus": "易危物種",
+      "category": "bird",
+      "wikidataId": "Q1082395",
+      "foodChain": {
+        "prey": [],
+        "predators": [],
+        "role": "unknown"
+      }
+    },
+    {
+      "id": "odontophorus_strophium",
+      "chineseName": "领林鹑",
+      "scientificName": "Odontophorus strophium",
+      "photoUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Odontophorus%20strophium%20-%201820-1863%20-%20Print%20-%20Iconographia%20Zoologica%20-%20Special%20Collections%20University%20of%20Amsterdam%20-%20UBA01%20IZ17100201%20%28cropped%29.tif",
+      "habitatCoordinates": [],
+      "conservationStatus": "易危物種",
+      "category": "bird",
+      "wikidataId": "Q1193048",
+      "foodChain": {
+        "prey": [],
+        "predators": [],
+        "role": "unknown"
+      }
+    },
+    {
+      "id": "odontophorus_atrifrons",
+      "chineseName": "黑额林鹑",
+      "scientificName": "Odontophorus atrifrons",
+      "photoUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Black-fronted%20wood%20quail.jpg",
+      "habitatCoordinates": [],
+      "conservationStatus": "无危物种",
+      "category": "bird",
+      "wikidataId": "Q1258916",
+      "foodChain": {
+        "prey": [],
+        "predators": [],
+        "role": "unknown"
+      }
+    },
+    {
+      "id": "odontophorus_erythrops",
+      "chineseName": "棕额林鹑",
+      "scientificName": "Odontophorus erythrops",
+      "photoUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Odontophorus%20erythrops%20parambae%201897.jpg",
+      "habitatCoordinates": [],
+      "conservationStatus": "无危物种",
+      "category": "bird",
+      "wikidataId": "Q1259880",
+      "foodChain": {
+        "prey": [],
+        "predators": [],
+        "role": "unknown"
+      }
+    },
+    {
+      "id": "odontophorus_melanotis",
+      "chineseName": "黑耳林鹑",
+      "scientificName": "Odontophorus melanotis",
+      "photoUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Odontophorus%20melanotis%201902.jpg",
+      "habitatCoordinates": [],
+      "conservationStatus": "近危物种",
+      "category": "bird",
+      "wikidataId": "Q1260930",
+      "foodChain": {
+        "prey": [],
+        "predators": [],
+        "role": "unknown"
+      }
+    },
+    {
+      "id": "aepypodius_bruijnii",
+      "chineseName": "冠塚雉",
+      "scientificName": "Aepypodius bruijnii",
+      "photoUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Annales%20des%20sciences%20naturelles%20%281881%29%20%2818204839675%29.jpg",
+      "habitatCoordinates": [],
+      "conservationStatus": "瀕危 (保育狀況)",
+      "category": "bird",
+      "wikidataId": "Q1262276",
+      "foodChain": {
+        "prey": [],
+        "predators": [],
+        "role": "unknown"
+      }
+    },
+    {
+      "id": "odontophorus_leucolaemus",
+      "chineseName": "白喉林鹑",
+      "scientificName": "Odontophorus leucolaemus",
+      "photoUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Odontophorus%20leucolaemusCJ-AvesP74A.jpg",
+      "habitatCoordinates": [],
+      "conservationStatus": "无危物种",
+      "category": "bird",
+      "wikidataId": "Q1263378",
+      "foodChain": {
+        "prey": [],
+        "predators": [],
+        "role": "unknown"
+      }
+    },
+    {
+      "id": "aepypodius_arfakianus",
+      "chineseName": "肉垂塚雉",
+      "scientificName": "Aepypodius arfakianus",
+      "photoUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Aepypodius%20arfakianus%20-Artis%20Zoo%2C%20Amsterdam%2C%20Netherlands-8a.jpg",
+      "habitatCoordinates": [],
+      "conservationStatus": "无危物种",
+      "category": "bird",
+      "wikidataId": "Q1266053",
+      "foodChain": {
+        "prey": [],
+        "predators": [],
+        "role": "unknown"
+      }
+    },
+    {
+      "id": "odontophorus_guttatus",
+      "chineseName": "点斑林鹑",
+      "scientificName": "Odontophorus guttatus",
+      "photoUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Spotted%20Wood%20Quail%2C%20Costa%20Rica%2C%20January%202018%20%2827083973248%29.jpg",
+      "habitatCoordinates": [],
+      "conservationStatus": "无危物种",
+      "category": "bird",
+      "wikidataId": "Q1266344",
+      "foodChain": {
+        "prey": [],
+        "predators": [],
+        "role": "unknown"
+      }
+    },
+    {
+      "id": "odontophorus_stellatus",
+      "chineseName": "黄眼斑林鹑",
+      "scientificName": "Odontophorus stellatus",
+      "photoUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Odontophorus%20stellatus.jpg",
+      "habitatCoordinates": [],
+      "conservationStatus": "无危物种",
+      "category": "bird",
+      "wikidataId": "Q1266800",
+      "foodChain": {
+        "prey": [],
+        "predators": [],
+        "role": "unknown"
+      }
+    },
+    {
+      "id": "odontophorus_columbianus",
+      "chineseName": "委内瑞拉林鹑",
+      "scientificName": "Odontophorus columbianus",
+      "photoUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Odontophorus%20columbianus%20-%20A%20monograph%20of%20the%20Odontophorin%C3%A6%2C%20or%2C%20Partridges%20of%20America.jpg",
+      "habitatCoordinates": [],
+      "conservationStatus": "近危物种",
+      "category": "bird",
+      "wikidataId": "Q1268703",
+      "foodChain": {
+        "prey": [],
+        "predators": [],
+        "role": "unknown"
+      }
+    },
+    {
+      "id": "odontophorus_hyperythrus",
+      "chineseName": "栗林鹑",
+      "scientificName": "Odontophorus hyperythrus",
+      "photoUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Chestnut%20wood%20quail%20%28Odontophorus%20hyperythrus%29.jpg",
+      "habitatCoordinates": [],
+      "conservationStatus": "无危物种",
+      "category": "bird",
+      "wikidataId": "Q1269538",
+      "foodChain": {
+        "prey": [],
+        "predators": [],
+        "role": "unknown"
+      }
+    },
+    {
+      "id": "odontophorus_speciosus",
+      "chineseName": "棕胸林鹑",
+      "scientificName": "Odontophorus speciosus",
+      "photoUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Odontophorus%20speciosus%20-%201700-1880%20-%20Print%20-%20Iconographia%20Zoologica%20-%20Special%20Collections%20University%20of%20Amsterdam%20-%20UBA01%20IZ17100191.png",
+      "habitatCoordinates": [],
+      "conservationStatus": "无危物种",
+      "category": "bird",
+      "wikidataId": "Q1270476",
+      "foodChain": {
+        "prey": [],
+        "predators": [],
+        "role": "unknown"
+      }
+    },
+    {
+      "id": "anthocephala_berlepschi",
+      "chineseName": "托利马花顶蜂鸟",
+      "scientificName": "Anthocephala berlepschi",
+      "photoUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Blossomcrown.jpg",
+      "habitatCoordinates": [],
+      "conservationStatus": "易危物種",
+      "category": "bird",
+      "wikidataId": "Q20020647",
+      "foodChain": {
+        "prey": [],
+        "predators": [],
+        "role": "unknown"
+      }
+    },
+    {
+      "id": "taoniscus_nanus",
+      "chineseName": "侏䳍",
+      "scientificName": "Taoniscus nanus",
+      "photoUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Taoniscus.jpg",
+      "habitatCoordinates": [],
+      "conservationStatus": "瀕危 (保育狀況)",
+      "category": "bird",
+      "wikidataId": "Q248520",
+      "foodChain": {
+        "prey": [],
+        "predators": [],
+        "role": "unknown"
+      }
+    },
+    {
+      "id": "taphrolesbia_griseiventris",
+      "chineseName": "灰嘴慧星蜂鸟",
+      "scientificName": "Taphrolesbia griseiventris",
+      "photoUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Taphrolesbia%20griseiventris%20195800882.jpg",
+      "habitatCoordinates": [],
+      "conservationStatus": "瀕危 (保育狀況)",
+      "category": "bird",
+      "wikidataId": "Q249974",
+      "foodChain": {
+        "prey": [],
+        "predators": [],
+        "role": "unknown"
+      }
+    },
+    {
+      "id": "numida_meleagris",
+      "chineseName": "珠鸡",
+      "scientificName": "Numida meleagris",
+      "photoUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Numida%20meleagris%20-Kruger%20National%20Park%2C%20South%20Africa-8a.jpg",
+      "habitatCoordinates": [],
+      "conservationStatus": "无危物种",
+      "category": "bird",
+      "wikidataId": "Q251842",
+      "foodChain": {
+        "prey": [],
+        "predators": [],
+        "role": "unknown"
+      }
+    },
+    {
+      "id": "stephanoxis_lalandi",
+      "chineseName": "紫胸凤头蜂鸟",
+      "scientificName": "Stephanoxis lalandi",
+      "photoUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Stephanoxis%20lalandi%20-Campos%20do%20Jordao%2C%20Sao%20Paulo%2C%20Brazil-8.jpg",
+      "habitatCoordinates": [],
+      "conservationStatus": "无危物种",
+      "category": "bird",
+      "wikidataId": "Q268028",
+      "foodChain": {
+        "prey": [],
+        "predators": [],
+        "role": "unknown"
+      }
+    },
+    {
+      "id": "philortyx_fasciatus",
+      "chineseName": "斑鹑",
+      "scientificName": "Philortyx fasciatus",
+      "photoUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Museo%20de%20la%20Naturaleza%20de%20Cantabria%20%2870%29.jpg",
+      "habitatCoordinates": [],
+      "conservationStatus": "无危物种",
+      "category": "bird",
+      "wikidataId": "Q269385",
+      "foodChain": {
+        "prey": [],
+        "predators": [],
+        "role": "unknown"
+      }
+    },
+    {
+      "id": "patagona_gigas",
+      "chineseName": "巨蜂鳥",
+      "scientificName": "Patagona gigas",
+      "photoUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Patagona%20gigas.jpg",
+      "habitatCoordinates": [],
+      "conservationStatus": "无危物种",
+      "category": "bird",
+      "wikidataId": "Q282973",
+      "foodChain": {
+        "prey": [],
+        "predators": [],
+        "role": "unknown"
+      }
+    },
+    {
+      "id": "opisthoprora_euryptera",
+      "chineseName": "反嘴蜂鸟",
+      "scientificName": "Opisthoprora euryptera",
+      "photoUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Opisthoprora%20euryptera.jpg",
+      "habitatCoordinates": [],
+      "conservationStatus": "无危物种",
+      "category": "bird",
+      "wikidataId": "Q283461",
+      "foodChain": {
+        "prey": [],
+        "predators": [],
+        "role": "unknown"
+      }
+    },
+    {
+      "id": "oreonympha_nobilis",
+      "chineseName": "须蜂鸟",
+      "scientificName": "Oreonympha nobilis",
+      "photoUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Oreonympha%20nobilis.jpg",
+      "habitatCoordinates": [],
+      "conservationStatus": "无危物种",
+      "category": "bird",
+      "wikidataId": "Q286615",
+      "foodChain": {
+        "prey": [],
+        "predators": [],
+        "role": "unknown"
+      }
+    },
+    {
+      "id": "leucochloris_albicollis",
+      "chineseName": "白喉蜂鸟",
+      "scientificName": "Leucochloris albicollis",
+      "photoUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Leucochloris%20albicollis.jpg",
+      "habitatCoordinates": [],
+      "conservationStatus": "无危物种",
+      "category": "bird",
+      "wikidataId": "Q286887",
+      "foodChain": {
+        "prey": [],
+        "predators": [],
+        "role": "unknown"
+      }
+    },
+    {
+      "id": "sternoclyta_cyanopectus",
+      "chineseName": "紫罗兰胸蜂鸟",
+      "scientificName": "Sternoclyta cyanopectus",
+      "photoUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/MonographTrochi2Goul%200078%20%28cropped%29.jpg",
+      "habitatCoordinates": [],
+      "conservationStatus": "无危物种",
+      "category": "bird",
+      "wikidataId": "Q368609",
+      "foodChain": {
+        "prey": [],
+        "predators": [],
+        "role": "unknown"
+      }
+    },
+    {
+      "id": "phaeochroa_cuvierii",
+      "chineseName": "鳞胸刀翅蜂鸟",
+      "scientificName": "Phaeochroa cuvierii",
+      "photoUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Scaly-breasted%20Hummingbird%20-%20Sarapiqui%20-%20Costa%20Rica%20S4E0291%20%2826084747394%29.jpg",
+      "habitatCoordinates": [],
+      "conservationStatus": "未知",
+      "category": "bird",
+      "wikidataId": "Q387934",
+      "foodChain": {
+        "prey": [],
+        "predators": [],
+        "role": "unknown"
+      }
+    },
+    {
+      "id": "adelomyia_melanogenys",
+      "chineseName": "鳞斑蜂鸟",
+      "scientificName": "Adelomyia melanogenys",
+      "photoUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Speckled%20hummingbird%20%28Adelomyia%20melanogenys%20melanogenys%29%20Cundinamarca.jpg",
+      "habitatCoordinates": [],
+      "conservationStatus": "无危物种",
+      "category": "bird",
+      "wikidataId": "Q503619",
+      "foodChain": {
+        "prey": [],
+        "predators": [],
+        "role": "unknown"
+      }
+    },
+    {
+      "id": "microchera_albocoronata",
+      "chineseName": "白顶蜂鸟",
+      "scientificName": "Microchera albocoronata",
+      "photoUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Snowcap%20%28Microchera%20albocoronata%29.jpg",
+      "habitatCoordinates": [],
+      "conservationStatus": "无危物种",
+      "category": "bird",
+      "wikidataId": "Q524681",
+      "foodChain": {
+        "prey": [],
+        "predators": [],
+        "role": "unknown"
+      }
+    },
+    {
+      "id": "loddigesia_mirabilis",
+      "chineseName": "叉拍尾蜂鳥",
+      "scientificName": "Loddigesia mirabilis",
+      "photoUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Loddigesia%20mirabilis%20%2B%20Aechmea%20mucroniflora%20-%20Gould%20Troch.%20pl.%20161.jpg",
+      "habitatCoordinates": [],
+      "conservationStatus": "近危物种",
+      "category": "bird",
+      "wikidataId": "Q544000",
+      "foodChain": {
+        "prey": [],
+        "predators": [],
+        "role": "unknown"
+      }
+    },
+    {
+      "id": "oreortyx_pictus",
+      "chineseName": "山翎鹑",
+      "scientificName": "Oreortyx pictus",
+      "photoUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/067%20-%20MOUNTAIN%20QUAIL%20%2811-23-07%29%20carrizo%20plain%20nat%20mon%2C%20sloco%2C%20ca%20%281%29%20%288719265956%29.jpg",
+      "habitatCoordinates": [],
+      "conservationStatus": "无危物种",
+      "category": "bird",
+      "wikidataId": "Q594810",
+      "foodChain": {
+        "prey": [],
+        "predators": [],
+        "role": "unknown"
+      }
+    },
+    {
+      "id": "goldmania_violiceps",
+      "chineseName": "紫顶蜂鸟",
+      "scientificName": "Goldmania violiceps",
+      "photoUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Goldmania%20violiceps%2062186536.jpg",
+      "habitatCoordinates": [],
+      "conservationStatus": "近危物种",
+      "category": "bird",
+      "wikidataId": "Q607745",
+      "foodChain": {
+        "prey": [],
+        "predators": [],
+        "role": "unknown"
+      }
+    },
+    {
+      "id": "pterophanes_cyanopterus",
+      "chineseName": "蓝翅大蜂鸟",
+      "scientificName": "Pterophanes cyanopterus",
+      "photoUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Great%20Sapphirewing%20%28Pterophanes%20cyanopterus%29.jpg",
+      "habitatCoordinates": [],
+      "conservationStatus": "无危物种",
+      "category": "bird",
+      "wikidataId": "Q649173",
+      "foodChain": {
+        "prey": [],
+        "predators": [],
+        "role": "unknown"
+      }
+    },
+    {
+      "id": "eulidia_yarrellii",
+      "chineseName": "智利蜂鸟",
+      "scientificName": "Eulidia yarrellii",
+      "photoUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Eulidia%20yarrellii.jpg",
+      "habitatCoordinates": [],
+      "conservationStatus": "極危",
+      "category": "bird",
+      "wikidataId": "Q657365",
+      "foodChain": {
+        "prey": [],
+        "predators": [],
+        "role": "unknown"
+      }
+    },
+    {
+      "id": "schistes_geoffroyi",
+      "chineseName": "楔嘴蜂鸟",
+      "scientificName": "Schistes geoffroyi",
+      "photoUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Schistes%20geoffroyi%20%28Pico%20de%20cu%C3%B1a%29%20%2822653616465%29.jpg",
+      "habitatCoordinates": [],
+      "conservationStatus": "无危物种",
+      "category": "bird",
+      "wikidataId": "Q669331",
+      "foodChain": {
+        "prey": [],
+        "predators": [],
+        "role": "unknown"
+      }
+    },
+    {
+      "id": "myrmia_micrura",
+      "chineseName": "短尾蜂鸟",
+      "scientificName": "Myrmia micrura",
+      "photoUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Myrmia%20micrura.jpg",
+      "habitatCoordinates": [],
+      "conservationStatus": "无危物种",
+      "category": "bird",
+      "wikidataId": "Q678454",
+      "foodChain": {
+        "prey": [],
+        "predators": [],
+        "role": "unknown"
+      }
+    },
+    {
+      "id": "orthorhyncus_cristatus",
+      "chineseName": "凤头蜂鸟",
+      "scientificName": "Orthorhyncus cristatus",
+      "photoUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Antillean%20crested%20hummingbird.jpg",
+      "habitatCoordinates": [],
+      "conservationStatus": "无危物种",
+      "category": "bird",
+      "wikidataId": "Q684679",
+      "foodChain": {
+        "prey": [],
+        "predators": [],
+        "role": "unknown"
+      }
+    },
+    {
+      "id": "chlorestes_notata",
+      "chineseName": "蓝颏青蜂鸟",
+      "scientificName": "Chlorestes notata",
+      "photoUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Male%20Blue-chinned%20Sapphire%20%28Chlorestes%20notatus%29.jpg",
+      "habitatCoordinates": [],
+      "conservationStatus": "未知",
+      "category": "bird",
+      "wikidataId": "Q690521",
+      "foodChain": {
+        "prey": [],
+        "predators": [],
+        "role": "unknown"
+      }
+    },
+    {
+      "id": "heliactin_bilophus",
+      "chineseName": "角蜂鸟",
+      "scientificName": "Heliactin bilophus",
+      "photoUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Heliactin%20bilophus%20363243165.jpg",
+      "habitatCoordinates": [],
+      "conservationStatus": "无危物种",
+      "category": "bird",
+      "wikidataId": "Q774363",
+      "foodChain": {
+        "prey": [],
+        "predators": [],
+        "role": "unknown"
+      }
+    },
+    {
+      "id": "thaumastura_cora",
+      "chineseName": "矛尾蜂鸟",
+      "scientificName": "Thaumastura cora",
+      "photoUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Thaumastura%20cora%20188341541.jpg",
+      "habitatCoordinates": [],
+      "conservationStatus": "无危物种",
+      "category": "bird",
+      "wikidataId": "Q783963",
+      "foodChain": {
+        "prey": [],
+        "predators": [],
+        "role": "unknown"
+      }
+    },
+    {
+      "id": "macrocephalon_maleo",
+      "chineseName": "蘇拉威西冢雉",
+      "scientificName": "Macrocephalon maleo",
+      "photoUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Maleo%20bird.PNG",
+      "habitatCoordinates": [],
+      "conservationStatus": "極危",
+      "category": "bird",
+      "wikidataId": "Q836291",
+      "foodChain": {
+        "prey": [],
+        "predators": [],
+        "role": "unknown"
+      }
+    },
+    {
+      "id": "ramphodon_naevius",
+      "chineseName": "锯嘴蜂鸟",
+      "scientificName": "Ramphodon naevius",
+      "photoUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Ramphodon%20naevius%201.jpg",
+      "habitatCoordinates": [],
+      "conservationStatus": "无危物种",
+      "category": "bird",
+      "wikidataId": "Q836998",
+      "foodChain": {
+        "prey": [],
+        "predators": [],
+        "role": "unknown"
+      }
+    },
+    {
+      "id": "tilmatura_dupontii",
+      "chineseName": "火尾蜂鸟",
+      "scientificName": "Tilmatura dupontii",
+      "photoUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Tilmatura%20dupontii%20158160335.jpg",
+      "habitatCoordinates": [],
+      "conservationStatus": "无危物种",
+      "category": "bird",
+      "wikidataId": "Q882926",
+      "foodChain": {
+        "prey": [],
+        "predators": [],
+        "role": "unknown"
+      }
+    },
+    {
+      "id": "eupetomena_macroura",
+      "chineseName": "燕尾刀翅蜂鸟",
+      "scientificName": "Eupetomena macroura",
+      "photoUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Eupetomena%20macroura%20-Piraju%2C%20Sao%20Paulo%2C%20Brazil-8.jpg",
+      "habitatCoordinates": [],
+      "conservationStatus": "无危物种",
+      "category": "bird",
+      "wikidataId": "Q906894",
+      "foodChain": {
+        "prey": [],
+        "predators": [],
+        "role": "unknown"
+      }
+    },
+    {
+      "id": "microstilbon_burmeisteri",
+      "chineseName": "细尾林星蜂鸟",
+      "scientificName": "Microstilbon burmeisteri",
+      "photoUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/ChaetocercusBurmeisteriKeulemans.jpg",
+      "habitatCoordinates": [],
+      "conservationStatus": "无危物种",
+      "category": "bird",
+      "wikidataId": "Q937910",
+      "foodChain": {
+        "prey": [],
+        "predators": [],
+        "role": "unknown"
+      }
+    },
+    {
+      "id": "lafresnaya_lafresnayi",
+      "chineseName": "绒胸山蜂鸟",
+      "scientificName": "Lafresnaya lafresnayi",
+      "photoUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Mountain%20velvetbreast%20%28Lafresnaya%20lafresnayi%20longirostris%29%20male%20Caldas.jpg",
+      "habitatCoordinates": [],
+      "conservationStatus": "无危物种",
+      "category": "bird",
+      "wikidataId": "Q946856",
+      "foodChain": {
+        "prey": [],
+        "predators": [],
+        "role": "unknown"
+      }
+    },
+    {
+      "id": "panterpe_insignis",
+      "chineseName": "火喉蜂鸟",
+      "scientificName": "Panterpe insignis",
+      "photoUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/068%20Fiery-throated%20hummingbird%20in%20Los%20Quetzales%20National%20Park%20Photo%20by%20Giles%20Laurent.jpg",
+      "habitatCoordinates": [],
+      "conservationStatus": "无危物种",
+      "category": "bird",
+      "wikidataId": "Q963376",
+      "foodChain": {
+        "prey": [],
+        "predators": [],
+        "role": "unknown"
+      }
+    },
+    {
+      "id": "dactylortyx_thoracicus",
+      "chineseName": "歌鹑",
+      "scientificName": "Dactylortyx thoracicus",
+      "photoUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Codorniz%20Silbadora%2C%20Singing%20Quail%2C%20Dactylortyx%20thoracicus%20%2823387866083%29.jpg",
+      "habitatCoordinates": [],
+      "conservationStatus": "无危物种",
+      "category": "bird",
+      "wikidataId": "Q967158",
+      "foodChain": {
+        "prey": [],
+        "predators": [],
+        "role": "unknown"
+      }
+    },
+    {
+      "id": "urochroa_bougueri",
+      "chineseName": "白尾蓝胸蜂鸟",
+      "scientificName": "Urochroa bougueri",
+      "photoUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Urochroa%20bougueri%20%28Colibr%C3%AD%20nag%C3%BCiblanco%29%20%2814144500332%29.jpg",
+      "habitatCoordinates": [],
+      "conservationStatus": "无危物种",
+      "category": "bird",
+      "wikidataId": "Q997349",
+      "foodChain": {
+        "prey": [],
+        "predators": [],
+        "role": "unknown"
+      }
+    },
+    {
+      "id": "cyanophaia_bicolor",
+      "chineseName": "蓝头蜂鸟",
+      "scientificName": "Cyanophaia bicolor",
+      "photoUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Blue-headed%20hummingbird.jpg",
+      "habitatCoordinates": [],
+      "conservationStatus": "近危物种",
+      "category": "bird",
+      "wikidataId": "Q1041419",
+      "foodChain": {
+        "prey": [],
+        "predators": [],
+        "role": "unknown"
+      }
+    },
+    {
+      "id": "klais_guimeti",
+      "chineseName": "紫头蜂鸟",
+      "scientificName": "Klais guimeti",
+      "photoUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Violet-headed%20Hummingbird%20%28Klais%20guimeti%29%202015-06-14%20%281%29%20%2840283795752%29.jpg",
+      "habitatCoordinates": [],
+      "conservationStatus": "无危物种",
+      "category": "bird",
+      "wikidataId": "Q1080335",
+      "foodChain": {
+        "prey": [],
+        "predators": [],
+        "role": "unknown"
+      }
+    },
+    {
+      "id": "oxypogon_guerinii",
+      "chineseName": "髯蜂鸟",
+      "scientificName": "Oxypogon guerinii",
+      "photoUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Oxypogon%20guerinii%20236915214.jpg",
+      "habitatCoordinates": [],
+      "conservationStatus": "无危物种",
+      "category": "bird",
+      "wikidataId": "Q1092111",
+      "foodChain": {
+        "prey": [],
+        "predators": [],
+        "role": "unknown"
+      }
+    },
+    {
+      "id": "eugenes_fulgens",
+      "chineseName": "大蜂鸟",
+      "scientificName": "Eugenes fulgens",
+      "photoUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Magnificent%20Hummingbird%20female.jpg",
+      "habitatCoordinates": [],
+      "conservationStatus": "无危物种",
+      "category": "bird",
+      "wikidataId": "Q1189991",
+      "foodChain": {
+        "prey": [],
+        "predators": [],
+        "role": "unknown"
+      }
+    },
+    {
+      "id": "hylonympha_macrocerca",
+      "chineseName": "剪尾蜂鸟",
+      "scientificName": "Hylonympha macrocerca",
+      "photoUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Hylonympha%20macrocerca.jpg",
+      "habitatCoordinates": [],
+      "conservationStatus": "瀕危 (保育狀況)",
+      "category": "bird",
+      "wikidataId": "Q1189999",
+      "foodChain": {
+        "prey": [],
+        "predators": [],
+        "role": "unknown"
+      }
+    },
+    {
+      "id": "taphrospilus_hypostictus",
+      "chineseName": "点斑薮蜂鸟",
+      "scientificName": "Taphrospilus hypostictus",
+      "photoUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Taphrospilus%20hypostictus%20%2812711177483%29.jpg",
+      "habitatCoordinates": [],
+      "conservationStatus": "无危物种",
+      "category": "bird",
+      "wikidataId": "Q1190011",
+      "foodChain": {
+        "prey": [],
+        "predators": [],
+        "role": "unknown"
+      }
+    },
+    {
+      "id": "rhynchortyx_cinctus",
+      "chineseName": "茶脸鹑",
+      "scientificName": "Rhynchortyx cinctus",
+      "photoUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Rhynchortyx%20cinctus.jpg",
+      "habitatCoordinates": [],
+      "conservationStatus": "近危物种",
+      "category": "bird",
+      "wikidataId": "Q1260944",
+      "foodChain": {
+        "prey": [],
+        "predators": [],
+        "role": "unknown"
+      }
+    },
+    {
+      "id": "oxypogon_lindenii",
+      "chineseName": "白髯蜂鸟",
+      "scientificName": "Oxypogon lindenii",
+      "photoUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Oxypogon%20guerinii%20lindenii.jpg",
+      "habitatCoordinates": [],
+      "conservationStatus": "近危物种",
+      "category": "bird",
+      "wikidataId": "Q17517258",
+      "foodChain": {
+        "prey": [],
+        "predators": [],
+        "role": "unknown"
+      }
+    },
+    {
+      "id": "oxypogon_cyanolaemus",
+      "chineseName": "蓝髯蜂鸟",
+      "scientificName": "Oxypogon cyanolaemus",
+      "photoUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Blue-bearded%20Helmetcrest.jpg",
+      "habitatCoordinates": [],
+      "conservationStatus": "瀕危 (保育狀況)",
+      "category": "bird",
+      "wikidataId": "Q17517273",
+      "foodChain": {
+        "prey": [],
+        "predators": [],
+        "role": "unknown"
+      }
+    },
+    {
+      "id": "oxypogon_stuebelii",
+      "chineseName": "黄髯蜂鸟",
+      "scientificName": "Oxypogon stuebelii",
+      "photoUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Oxypogon%20stuebelii%20-%20Buffy%20Helmetcrest%20-%20Colibr%C3%AD%20Chivito%20del%20Ruiz.jpg",
+      "habitatCoordinates": [],
+      "conservationStatus": "易危物種",
+      "category": "bird",
+      "wikidataId": "Q17517323",
+      "foodChain": {
+        "prey": [],
+        "predators": [],
+        "role": "unknown"
+      }
+    },
+    {
+      "id": "stephanoxis_loddigesii",
+      "chineseName": "紫凤冠蜂鸟",
+      "scientificName": "Stephanoxis loddigesii",
+      "photoUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Stephanoxis%20loddigesii%20244152090.jpg",
+      "habitatCoordinates": [],
+      "conservationStatus": "无危物种",
+      "category": "bird",
+      "wikidataId": "Q17630679",
+      "foodChain": {
+        "prey": [],
+        "predators": [],
+        "role": "unknown"
+      }
+    },
+    {
+      "id": "eugenes_spectabilis",
+      "chineseName": "高地大蜂鸟",
+      "scientificName": "Eugenes spectabilis",
+      "photoUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Magnificent%20Hummingbird%20female.jpg",
+      "habitatCoordinates": [],
+      "conservationStatus": "无危物种",
+      "category": "bird",
+      "wikidataId": "Q21197421",
+      "foodChain": {
+        "prey": [],
+        "predators": [],
+        "role": "unknown"
+      }
+    },
+    {
+      "id": "schistes_albogularis",
+      "chineseName": "白喉楔嘴蜂鸟",
+      "scientificName": "Schistes albogularis",
+      "photoUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Schistes%20albogularis%20240980514%20%28cropped%29.jpg",
+      "habitatCoordinates": [],
+      "conservationStatus": "无危物种",
+      "category": "bird",
+      "wikidataId": "Q30688437",
+      "foodChain": {
+        "prey": [],
+        "predators": [],
+        "role": "unknown"
+      }
+    },
+    {
+      "id": "urochroa_leucura",
+      "chineseName": "铜腰白尾蜂鸟",
+      "scientificName": "Urochroa leucura",
+      "photoUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/White-tailed%20Hillstar%20JCB.jpg",
+      "habitatCoordinates": [],
+      "conservationStatus": "无危物种",
+      "category": "bird",
+      "wikidataId": "Q31873827",
+      "foodChain": {
+        "prey": [],
+        "predators": [],
+        "role": "unknown"
+      }
+    },
+    {
+      "id": "pavo_cristatus",
+      "chineseName": "蓝孔雀",
+      "scientificName": "Pavo cristatus",
+      "photoUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Indian%20Peacock%20in%20Tholpetty%20Wildlife%20Sanctuary%2001.JPG",
+      "habitatCoordinates": [],
+      "conservationStatus": "无危物种",
+      "category": "bird",
+      "wikidataId": "Q61865",
+      "foodChain": {
+        "prey": [],
+        "predators": [],
+        "role": "unknown"
+      }
+    },
+    {
+      "id": "porphyrio_porphyrio",
+      "chineseName": "西紫水鸡",
+      "scientificName": "Porphyrio porphyrio",
+      "photoUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Purpurhuhn.jpg",
+      "habitatCoordinates": [],
+      "conservationStatus": "无危物种",
+      "category": "bird",
+      "wikidataId": "Q187902",
+      "foodChain": {
+        "prey": [],
+        "predators": [],
+        "role": "unknown"
+      }
+    },
+    {
+      "id": "porphyrio_hochstetteri",
+      "chineseName": "南秧雞",
+      "scientificName": "Porphyrio hochstetteri",
+      "photoUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Porphyrio%20hochstetteri%20-Tiritiri%20Matangi%20Island-8b-3c.jpg",
+      "habitatCoordinates": [],
+      "conservationStatus": "瀕危 (保育狀況)",
+      "category": "bird",
+      "wikidataId": "Q212302",
+      "foodChain": {
+        "prey": [],
+        "predators": [],
+        "role": "unknown"
+      }
+    },
+    {
+      "id": "pavo_muticus",
+      "chineseName": "绿孔雀",
+      "scientificName": "Pavo muticus",
+      "photoUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Green%20Peafowl.jpg",
+      "habitatCoordinates": [],
+      "conservationStatus": "瀕危 (保育狀況)",
+      "category": "bird",
+      "wikidataId": "Q254636",
+      "foodChain": {
+        "prey": [],
+        "predators": [],
+        "role": "unknown"
+      }
+    },
+    {
+      "id": "podica_senegalensis",
+      "chineseName": "非洲鰭趾鷈",
+      "scientificName": "Podica senegalensis",
+      "photoUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Africanfinfoot.jpg",
+      "habitatCoordinates": [],
+      "conservationStatus": "无危物种",
+      "category": "bird",
+      "wikidataId": "Q261286",
+      "foodChain": {
+        "prey": [],
+        "predators": [],
+        "role": "unknown"
+      }
+    },
+    {
+      "id": "sarothrura_affinis",
+      "chineseName": "栗尾侏秧鸡",
+      "scientificName": "Sarothrura affinis",
+      "photoUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Sarothrura%20affinis%20affinis%201838.jpg",
+      "habitatCoordinates": [],
+      "conservationStatus": "无危物种",
+      "category": "bird",
+      "wikidataId": "Q388494",
+      "foodChain": {
+        "prey": [],
+        "predators": [],
+        "role": "unknown"
+      }
+    },
+    {
+      "id": "heliopais_personatus",
+      "chineseName": "亚洲鳍趾䴘",
+      "scientificName": "Heliopais personatus",
+      "photoUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Masked%20Finfoot.jpg",
+      "habitatCoordinates": [],
+      "conservationStatus": "極危",
+      "category": "bird",
+      "wikidataId": "Q606527",
+      "foodChain": {
+        "prey": [],
+        "predators": [],
+        "role": "unknown"
+      }
+    },
+    {
+      "id": "rallina_eurizonoides",
+      "chineseName": "白喉斑秧鸡",
+      "scientificName": "Rallina eurizonoides",
+      "photoUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Slaty-legged%20Crake%20%28%20Rallina%20eurizonoides%29.jpg",
+      "habitatCoordinates": [],
+      "conservationStatus": "无危物种",
+      "category": "bird",
+      "wikidataId": "Q679123",
+      "foodChain": {
+        "prey": [],
+        "predators": [],
+        "role": "unknown"
+      }
+    },
+    {
+      "id": "atlantisia_rogersi",
+      "chineseName": "荒岛秧鸡",
+      "scientificName": "Atlantisia rogersi",
+      "photoUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Atlantisia%20rogersi%20scematic.jpg",
+      "habitatCoordinates": [],
+      "conservationStatus": "未知",
+      "category": "bird",
+      "wikidataId": "Q757000",
+      "foodChain": {
+        "prey": [],
+        "predators": [],
+        "role": "unknown"
+      }
+    },
+    {
+      "id": "aramidopsis_plateni",
+      "chineseName": "鼾声秧鸡",
+      "scientificName": "Aramidopsis plateni",
+      "photoUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Aramidopsis%20plateni%201898.jpg",
+      "habitatCoordinates": [],
+      "conservationStatus": "易危物種",
+      "category": "bird",
+      "wikidataId": "Q767101",
+      "foodChain": {
+        "prey": [],
+        "predators": [],
+        "role": "unknown"
+      }
+    },
+    {
+      "id": "porphyrio_albus",
+      "chineseName": "新不列顛紫水雞",
+      "scientificName": "Porphyrio albus",
+      "photoUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/HowePurpurhuhn2.jpg",
+      "habitatCoordinates": [],
+      "conservationStatus": "絕滅",
+      "category": "bird",
+      "wikidataId": "Q1050513",
+      "foodChain": {
+        "prey": [],
+        "predators": [],
+        "role": "unknown"
+      }
+    },
+    {
+      "id": "dryolimnas_cuvieri",
+      "chineseName": "白喉秧雞",
+      "scientificName": "Dryolimnas cuvieri",
+      "photoUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Dryolimnas%20cuvieri.jpg",
+      "habitatCoordinates": [],
+      "conservationStatus": "无危物种",
+      "category": "bird",
+      "wikidataId": "Q1260361",
+      "foodChain": {
+        "prey": [],
+        "predators": [],
+        "role": "unknown"
+      }
+    },
+    {
+      "id": "porphyrio_flavirostris",
+      "chineseName": "淡青水鸡",
+      "scientificName": "Porphyrio flavirostris",
+      "photoUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Porphyrio%20flavirostris%2C%20Laguna%20Cashibococha%2C%20Ucayali%2C%20Peru%20328051607.jpg",
+      "habitatCoordinates": [],
+      "conservationStatus": "无危物种",
+      "category": "bird",
+      "wikidataId": "Q1261648",
+      "foodChain": {
+        "prey": [],
+        "predators": [],
+        "role": "unknown"
+      }
+    },
+    {
+      "id": "gymnocrex_plumbeiventris",
+      "chineseName": "裸眼秧鸡",
+      "scientificName": "Gymnocrex plumbeiventris",
+      "photoUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/RallusIntactusSmit.jpg",
+      "habitatCoordinates": [],
+      "conservationStatus": "无危物种",
+      "category": "bird",
+      "wikidataId": "Q1261995",
+      "foodChain": {
+        "prey": [],
+        "predators": [],
+        "role": "unknown"
+      }
+    },
+    {
+      "id": "habroptila_wallacii",
+      "chineseName": "华氏秧鸡",
+      "scientificName": "Habroptila wallacii",
+      "photoUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/HabroptilaWallaciiWolf.jpg",
+      "habitatCoordinates": [],
+      "conservationStatus": "易危物種",
+      "category": "bird",
+      "wikidataId": "Q1263163",
+      "foodChain": {
+        "prey": [],
+        "predators": [],
+        "role": "unknown"
+      }
+    },
+    {
+      "id": "cyanolimnas_cerverai",
+      "chineseName": "沼澤秧雞",
+      "scientificName": "Cyanolimnas cerverai",
+      "photoUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Cyanolimnas%20cerverai%20by%20Allan%20Brooks%20cropped.jpg",
+      "habitatCoordinates": [],
+      "conservationStatus": "極危",
+      "category": "bird",
+      "wikidataId": "Q1263186",
+      "foodChain": {
+        "prey": [],
+        "predators": [],
+        "role": "unknown"
+      }
+    },
+    {
+      "id": "megacrex_inepta",
+      "chineseName": "新几内亚秧鸡",
+      "scientificName": "Megacrex inepta",
+      "photoUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Megacrex%20inepta%20Gould.jpg",
+      "habitatCoordinates": [],
+      "conservationStatus": "无危物种",
+      "category": "bird",
+      "wikidataId": "Q1263425",
+      "foodChain": {
+        "prey": [],
+        "predators": [],
+        "role": "unknown"
+      }
+    },
+    {
+      "id": "sarothrura_insularis",
+      "chineseName": "馬島侏秧雞",
+      "scientificName": "Sarothrura insularis",
+      "photoUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/CorethruraInsularisKeulemans.jpg",
+      "habitatCoordinates": [],
+      "conservationStatus": "无危物种",
+      "category": "bird",
+      "wikidataId": "Q1263754",
+      "foodChain": {
+        "prey": [],
+        "predators": [],
+        "role": "unknown"
+      }
+    },
+    {
+      "id": "amaurolimnas_concolor",
+      "chineseName": "纯色秧鸡",
+      "scientificName": "Amaurolimnas concolor",
+      "photoUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Amaurolimnas%20concolor%20-%20Miguel%20-%20569387954.jpeg",
+      "habitatCoordinates": [],
+      "conservationStatus": "无危物种",
+      "category": "bird",
+      "wikidataId": "Q1266427",
+      "foodChain": {
+        "prey": [],
+        "predators": [],
+        "role": "unknown"
+      }
+    },
+    {
+      "id": "crex_egregia",
+      "chineseName": "非洲秧鸡",
+      "scientificName": "Crex egregia",
+      "photoUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/CrakeAfrican2%28byMarkTittley%29.jpg",
+      "habitatCoordinates": [],
+      "conservationStatus": "无危物种",
+      "category": "bird",
+      "wikidataId": "Q1267654",
+      "foodChain": {
+        "prey": [],
+        "predators": [],
+        "role": "unknown"
+      }
+    },
+    {
+      "id": "pardirallus_maculatus",
+      "chineseName": "美洲斑秧鸡",
+      "scientificName": "Pardirallus maculatus",
+      "photoUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Pardirallus%20maculatus%20maculatus%20details.jpg",
+      "habitatCoordinates": [],
+      "conservationStatus": "无危物种",
+      "category": "bird",
+      "wikidataId": "Q1270896",
+      "foodChain": {
+        "prey": [],
+        "predators": [],
+        "role": "unknown"
+      }
+    },
+    {
+      "id": "rallina_fasciata",
+      "chineseName": "红脚斑秧鸡",
+      "scientificName": "Rallina fasciata",
+      "photoUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Red-Legged%20Crake.jpg",
+      "habitatCoordinates": [],
+      "conservationStatus": "无危物种",
+      "category": "bird",
+      "wikidataId": "Q1272601",
+      "foodChain": {
+        "prey": [],
+        "predators": [],
+        "role": "unknown"
+      }
+    },
+    {
+      "id": "aenigmatolimnas_marginalis",
+      "chineseName": "斑纹田鸡",
+      "scientificName": "Aenigmatolimnas marginalis",
+      "photoUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Aenigmatolimnas%20marginalis%2C%20Kgomo-kgomo-vleiland%2C%20Birding%20Weto%2C%20a.jpg",
+      "habitatCoordinates": [],
+      "conservationStatus": "未知",
+      "category": "bird",
+      "wikidataId": "Q1272697",
+      "foodChain": {
+        "prey": [],
+        "predators": [],
+        "role": "unknown"
+      }
+    },
+    {
+      "id": "neocrex_erythrops",
+      "chineseName": "彩喙秧鸡",
+      "scientificName": "Neocrex erythrops",
+      "photoUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Neocrex%20erythrops%20-%20Paint-billed%20Crake%3B%20Arari%3B%20Maranh%C3%A3o%2C%20Brazil.jpg",
+      "habitatCoordinates": [],
+      "conservationStatus": "无危物种",
+      "category": "bird",
+      "wikidataId": "Q1274289",
+      "foodChain": {
+        "prey": [],
+        "predators": [],
+        "role": "unknown"
+      }
+    },
+    {
+      "id": "eulabeornis_castaneoventris",
+      "chineseName": "栗腹秧鸡",
+      "scientificName": "Eulabeornis castaneoventris",
+      "photoUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/The%20birds%20of%20Australia%20%2816769508186%29.jpg",
+      "habitatCoordinates": [],
+      "conservationStatus": "无危物种",
+      "category": "bird",
+      "wikidataId": "Q1274782",
+      "foodChain": {
+        "prey": [],
+        "predators": [],
+        "role": "unknown"
+      }
+    },
+    {
+      "id": "psophia_crepitans",
+      "chineseName": "灰翅喇叭鹤",
+      "scientificName": "Psophia crepitans",
+      "photoUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/BIRD%20GREY%20WINGED%20TRUMPETER%20SURINAM%20AMAZONE%20SOUTH-AMERICA%20%2832976583196%29.jpg",
+      "habitatCoordinates": [],
+      "conservationStatus": "无危物种",
+      "category": "bird",
+      "wikidataId": "Q1275053",
+      "foodChain": {
+        "prey": [],
+        "predators": [],
+        "role": "unknown"
+      }
+    },
+    {
+      "id": "porphyrio_madagascariensis",
+      "chineseName": "非洲紫水鸡",
+      "scientificName": "Porphyrio madagascariensis",
+      "photoUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/African%20Purple%20Swamphen.jpg",
+      "habitatCoordinates": [],
+      "conservationStatus": "未知",
+      "category": "bird",
+      "wikidataId": "Q4862280",
+      "foodChain": {
+        "prey": [],
+        "predators": [],
+        "role": "unknown"
+      }
+    },
+    {
+      "id": "porphyrio_poliocephalus",
+      "chineseName": "灰頭紫水雞",
+      "scientificName": "Porphyrio poliocephalus",
+      "photoUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Grey-headed%20swamphen%20%28Porphyrio%20poliocephalus%29%20female.jpg",
+      "habitatCoordinates": [],
+      "conservationStatus": "未知",
+      "category": "bird",
+      "wikidataId": "Q13173082",
+      "foodChain": {
+        "prey": [],
+        "predators": [],
+        "role": "unknown"
+      }
+    },
+    {
+      "id": "porphyrio_indicus",
+      "chineseName": "黑背紫水鸡",
+      "scientificName": "Porphyrio indicus",
+      "photoUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Black-backed%20Swamphen%20-%20Muara%20Angke%20-%20West%20Java%20MG%205982%20%2829753578651%29.jpg",
+      "habitatCoordinates": [],
+      "conservationStatus": "未知",
+      "category": "bird",
+      "wikidataId": "Q21169704",
+      "foodChain": {
+        "prey": [],
+        "predators": [],
+        "role": "unknown"
+      }
+    },
+    {
+      "id": "porphyrio_melanotus",
+      "chineseName": "澳洲紫水鸡",
+      "scientificName": "Porphyrio melanotus",
+      "photoUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Australasian%20Swamphen%20%2821245923670%29.jpg",
+      "habitatCoordinates": [],
+      "conservationStatus": "未知",
+      "category": "bird",
+      "wikidataId": "Q27074640",
+      "foodChain": {
+        "prey": [],
+        "predators": [],
+        "role": "unknown"
+      }
+    },
+    {
+      "id": "porphyrio_martinica",
+      "chineseName": "紫青水鸡",
+      "scientificName": "Porphyrio martinica",
+      "photoUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Purple%20Gallinule%20-%20Porphyrio%20martinica%2C%20Everglades%20National%20Park%2C%20Homestead%2C%20Florida%20%2838539237780%29.jpg",
+      "habitatCoordinates": [],
+      "conservationStatus": "未知",
+      "category": "bird",
+      "wikidataId": "Q27074644",
+      "foodChain": {
+        "prey": [],
+        "predators": [],
+        "role": "unknown"
+      }
+    },
+    {
+      "id": "lagopus_leucura",
+      "chineseName": "白尾雷鸟",
+      "scientificName": "Lagopus leucura",
+      "photoUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Mount%20Rainier%20White-Tailed%20Ptarmigan%20%2853058740798%29.jpg",
+      "habitatCoordinates": [],
+      "conservationStatus": "无危物种",
+      "category": "bird",
+      "wikidataId": "Q19055",
+      "foodChain": {
+        "prey": [],
+        "predators": [],
+        "role": "unknown"
+      }
+    },
+    {
+      "id": "colinus_virginianus",
+      "chineseName": "山齒鶉",
+      "scientificName": "Colinus virginianus",
+      "photoUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Northern%20Bobwhite%20female%20RWD.jpg",
+      "habitatCoordinates": [],
+      "conservationStatus": "近危物种",
+      "category": "bird",
+      "wikidataId": "Q142651",
+      "foodChain": {
+        "prey": [],
+        "predators": [],
+        "role": "unknown"
+      }
+    },
+    {
+      "id": "lagopus_lagopus",
+      "chineseName": "柳雷鸟",
+      "scientificName": "Lagopus lagopus",
+      "photoUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Lagop%C3%A8de%20des%20saules%20-%20Abiskojaure%2010.jpg",
+      "habitatCoordinates": [],
+      "conservationStatus": "无危物种",
+      "category": "bird",
+      "wikidataId": "Q178702",
+      "foodChain": {
+        "prey": [],
+        "predators": [],
+        "role": "unknown"
+      }
+    },
+    {
+      "id": "tetrastes_bonasia",
+      "chineseName": "花尾榛鸡",
+      "scientificName": "Tetrastes bonasia",
+      "photoUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Tetrastes%20bonasia.jpg",
+      "habitatCoordinates": [],
+      "conservationStatus": "无危物种",
+      "category": "bird",
+      "wikidataId": "Q182761",
+      "foodChain": {
+        "prey": [],
+        "predators": [],
+        "role": "unknown"
+      }
+    },
+    {
+      "id": "lagopus_muta",
+      "chineseName": "岩雷鸟",
+      "scientificName": "Lagopus muta",
+      "photoUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Lagopus%20muta2.jpg",
+      "habitatCoordinates": [],
+      "conservationStatus": "无危物种",
+      "category": "bird",
+      "wikidataId": "Q205930",
+      "foodChain": {
+        "prey": [],
+        "predators": [],
+        "role": "unknown"
+      }
+    },
+    {
+      "id": "colinus_nigrogularis",
+      "chineseName": "黑喉齿鹑",
+      "scientificName": "Colinus nigrogularis",
+      "photoUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Colinus%20nigrogularis%201.jpg",
+      "habitatCoordinates": [],
+      "conservationStatus": "无危物种",
+      "category": "bird",
+      "wikidataId": "Q262180",
+      "foodChain": {
+        "prey": [],
+        "predators": [],
+        "role": "unknown"
+      }
+    },
+    {
+      "id": "varanus_komodoensis",
+      "chineseName": "科摩多巨蜥",
+      "scientificName": "Varanus komodoensis",
+      "photoUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Komodo%20dragon%20Varanus%20komodoensis%20Ragunan%20Zoo%202.JPG",
+      "habitatCoordinates": [],
+      "conservationStatus": "瀕危 (保育狀況)",
+      "category": "reptile",
+      "wikidataId": "Q4504",
+      "foodChain": {
+        "prey": [],
+        "predators": [],
+        "role": "unknown"
+      }
+    },
+    {
+      "id": "ophiophagus_hannah",
+      "chineseName": "眼镜王蛇",
+      "scientificName": "Ophiophagus hannah",
+      "photoUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Ophiophagus%20hannah%20381373252.jpg",
+      "habitatCoordinates": [],
+      "conservationStatus": "易危物種",
+      "category": "reptile",
+      "wikidataId": "Q48186",
+      "foodChain": {
+        "prey": [],
+        "predators": [],
+        "role": "unknown"
+      }
+    },
+    {
+      "id": "dermochelys_coriacea",
+      "chineseName": "棱皮龜",
+      "scientificName": "Dermochelys coriacea",
+      "photoUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Dermochelys%20coriacea%20-%20Julien%20Renoult%20-%2012981952.jpeg",
+      "habitatCoordinates": [],
+      "conservationStatus": "易危物種",
+      "category": "reptile",
+      "wikidataId": "Q120043",
+      "foodChain": {
+        "prey": [],
+        "predators": [],
+        "role": "unknown"
+      }
+    },
+    {
+      "id": "crocodylus_niloticus",
+      "chineseName": "尼羅鱷",
+      "scientificName": "Crocodylus niloticus",
+      "photoUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Crocodylus%20niloticus6.jpg",
+      "habitatCoordinates": [],
+      "conservationStatus": "无危物种",
+      "category": "reptile",
+      "wikidataId": "Q168745",
+      "foodChain": {
+        "prey": [],
+        "predators": [],
+        "role": "unknown"
+      }
+    },
+    {
+      "id": "crocodylus_porosus",
+      "chineseName": "灣鱷",
+      "scientificName": "Crocodylus porosus",
+      "photoUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/SaltwaterCrocodile%28%27Maximo%27%29.jpg",
+      "habitatCoordinates": [],
+      "conservationStatus": "无危物种",
+      "category": "reptile",
+      "wikidataId": "Q182599",
+      "foodChain": {
+        "prey": [],
+        "predators": [],
+        "role": "unknown"
+      }
+    },
+    {
+      "id": "heloderma_suspectum",
+      "chineseName": "美國毒蜥",
+      "scientificName": "Heloderma suspectum",
+      "photoUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/AZ%20Gila%20Monster%2001.jpg",
+      "habitatCoordinates": [],
+      "conservationStatus": "近危物种",
+      "category": "reptile",
+      "wikidataId": "Q207058",
+      "foodChain": {
+        "prey": [],
+        "predators": [],
+        "role": "unknown"
+      }
+    },
+    {
+      "id": "iguana_iguana",
+      "chineseName": "美洲鬣蜥",
+      "scientificName": "Iguana iguana",
+      "photoUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Curacao%20Iguana%20iguana%202021%203.jpg",
+      "habitatCoordinates": [],
+      "conservationStatus": "无危物种",
+      "category": "reptile",
+      "wikidataId": "Q215376",
+      "foodChain": {
+        "prey": [],
+        "predators": [],
+        "role": "unknown"
+      }
+    },
+    {
+      "id": "boa_constrictor",
+      "chineseName": "紅尾蚺",
+      "scientificName": "Boa constrictor",
+      "photoUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Boa%20constrictor%2C%20Va%C5%88kovka%2C%20Brno%20%282%29.jpg",
+      "habitatCoordinates": [],
+      "conservationStatus": "无危物种",
+      "category": "reptile",
+      "wikidataId": "Q215388",
+      "foodChain": {
+        "prey": [],
+        "predators": [],
+        "role": "unknown"
+      }
+    },
+    {
+      "id": "malayopython_reticulatus",
+      "chineseName": "網紋蟒",
+      "scientificName": "Malayopython reticulatus",
+      "photoUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Python%20reticulatus%20kop.jpg",
+      "habitatCoordinates": [],
+      "conservationStatus": "无危物种",
+      "category": "reptile",
+      "wikidataId": "Q216136",
+      "foodChain": {
+        "prey": [],
+        "predators": [],
+        "role": "unknown"
+      }
+    },
+    {
+      "id": "python_bivittatus",
+      "chineseName": "緬甸蟒",
+      "scientificName": "Python bivittatus",
+      "photoUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Burmese%20Python%20%2813%29%2C%20NPSPhoto%2C%20R.%20Cammauf%20%289101584016%29.jpg",
+      "habitatCoordinates": [],
+      "conservationStatus": "易危物種",
+      "category": "reptile",
+      "wikidataId": "Q2716137",
+      "foodChain": {
+        "prey": [],
+        "predators": [],
+        "role": "unknown"
+      }
+    },
+    {
+      "id": "varanus",
+      "chineseName": "巨蜥属",
+      "scientificName": "Varanus",
+      "photoUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Licking%20Monitor%20Lizard.jpg",
+      "habitatCoordinates": [],
+      "conservationStatus": "未知",
+      "category": "reptile",
+      "wikidataId": "Q81228",
+      "foodChain": {
+        "prey": [],
+        "predators": [],
+        "role": "unknown"
+      }
+    },
+    {
+      "id": "caretta_caretta",
+      "chineseName": "赤蠵龜",
+      "scientificName": "Caretta caretta",
+      "photoUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Loggerhead%20sea%20turtle.jpg",
+      "habitatCoordinates": [],
+      "conservationStatus": "易危物種",
+      "category": "reptile",
+      "wikidataId": "Q192095",
+      "foodChain": {
+        "prey": [],
+        "predators": [],
+        "role": "unknown"
+      }
+    },
+    {
+      "id": "alligator_mississippiensis",
+      "chineseName": "美國短吻鱷",
+      "scientificName": "Alligator mississippiensis",
+      "photoUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/American%20Alligator.jpg",
+      "habitatCoordinates": [],
+      "conservationStatus": "无危物种",
+      "category": "reptile",
+      "wikidataId": "Q193327",
+      "foodChain": {
+        "prey": [],
+        "predators": [],
+        "role": "unknown"
+      }
+    },
+    {
+      "id": "chelonia_mydas",
+      "chineseName": "綠蠵龜",
+      "scientificName": "Chelonia mydas",
+      "photoUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Green%20sea%20turtle%20%28Chelonia%20mydas%29%20Moorea.jpg",
+      "habitatCoordinates": [],
+      "conservationStatus": "无危物种",
+      "category": "reptile",
+      "wikidataId": "Q199458",
+      "foodChain": {
+        "prey": [],
+        "predators": [],
+        "role": "unknown"
+      }
+    },
+    {
+      "id": "eretmochelys_imbricata",
+      "chineseName": "玳瑁",
+      "scientificName": "Eretmochelys imbricata",
+      "photoUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Tortuga%20carey%20%28Eretmochelys%20imbricata%29%2C%20parque%20nacional%20Ras%20Muhammad%2C%20Egipto%2C%202022-03-28%2C%20DD%2056.jpg",
+      "habitatCoordinates": [],
+      "conservationStatus": "極危",
+      "category": "reptile",
+      "wikidataId": "Q203538",
+      "foodChain": {
+        "prey": [],
+        "predators": [],
+        "role": "unknown"
+      }
+    },
+    {
+      "id": "melanosuchus_niger",
+      "chineseName": "黑凯门鳄",
+      "scientificName": "Melanosuchus niger",
+      "photoUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Jacar%C3%A9%20A%C3%A7%C3%BA.jpg",
+      "habitatCoordinates": [],
+      "conservationStatus": "无危物种",
+      "category": "reptile",
+      "wikidataId": "Q504483",
+      "foodChain": {
+        "prey": [],
+        "predators": [],
+        "role": "unknown"
+      }
+    },
+    {
+      "id": "crotalus_adamanteus",
+      "chineseName": "東部菱背響尾蛇",
+      "scientificName": "Crotalus adamanteus",
+      "photoUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Crotalus%20adamanteus%20%285%29.jpg",
+      "habitatCoordinates": [],
+      "conservationStatus": "无危物种",
+      "category": "reptile",
+      "wikidataId": "Q744532",
+      "foodChain": {
+        "prey": [],
+        "predators": [],
+        "role": "unknown"
+      }
+    },
+    {
+      "id": "python_sebae",
+      "chineseName": "非洲岩蟒",
+      "scientificName": "Python sebae",
+      "photoUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Adult%20Female%20Python%20sebae%201.33aspect.jpg",
+      "habitatCoordinates": [],
+      "conservationStatus": "近危物种",
+      "category": "reptile",
+      "wikidataId": "Q764797",
+      "foodChain": {
+        "prey": [],
+        "predators": [],
+        "role": "unknown"
+      }
+    }
+  ]
+}
