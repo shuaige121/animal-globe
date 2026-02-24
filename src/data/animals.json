@@ -1,0 +1,586 @@
+{
+  "version": "1.0",
+  "lastUpdated": "2024-01-01",
+  "animals": [
+    {
+      "id": "african_lion",
+      "chineseName": "非洲狮",
+      "englishName": "African Lion",
+      "scientificName": "Panthera leo",
+      "taxonomy": {
+        "kingdom": "Animalia",
+        "phylum": "Chordata",
+        "class": "Mammalia",
+        "order": "Carnivora",
+        "family": "Felidae",
+        "genus": "Panthera",
+        "species": "P. leo"
+      },
+      "category": "mammal",
+      "habitat": "非洲草原和疏林地带",
+      "habitatCoordinates": [[-1.9441, 34.5795]],
+      "habitatRegion": "非洲撒哈拉以南地区",
+      "population": 20000,
+      "conservationStatus": "VU",
+      "foodChain": {
+        "prey": ["斑马", "角马", "瞪羚", "水牛"],
+        "predators": ["人类"],
+        "role": "顶级掠食者"
+      },
+      "relatedInsects": ["蜱虫", "舌蝇"],
+      "photoUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/73/Lion_waiting_in_Namibia.jpg/640px-Lion_waiting_in_Namibia.jpg",
+      "description": "非洲狮是现存最大的猫科动物之一，被誉为百兽之王。雄狮拥有标志性的鬃毛，以群居方式生活在非洲草原上，是顶级掠食者。"
+    },
+    {
+      "id": "giant_panda",
+      "chineseName": "大熊猫",
+      "englishName": "Giant Panda",
+      "scientificName": "Ailuropoda melanoleuca",
+      "taxonomy": {
+        "kingdom": "Animalia",
+        "phylum": "Chordata",
+        "class": "Mammalia",
+        "order": "Carnivora",
+        "family": "Ursidae",
+        "genus": "Ailuropoda",
+        "species": "A. melanoleuca"
+      },
+      "category": "mammal",
+      "habitat": "中国西南山地竹林",
+      "habitatCoordinates": [[30.6598, 102.0000]],
+      "habitatRegion": "中国四川、陕西、甘肃",
+      "population": 1864,
+      "conservationStatus": "VU",
+      "foodChain": {
+        "prey": ["竹子", "竹笋", "竹叶"],
+        "predators": ["雪豹", "亚洲黑熊"],
+        "role": "植食动物"
+      },
+      "relatedInsects": ["竹蚜虫", "竹象甲"],
+      "photoUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0f/Grosser_Panda.JPG/640px-Grosser_Panda.JPG",
+      "description": "大熊猫是中国的国宝，以竹子为主食。黑白相间的毛色使其成为全球最受欢迎的动物之一，是世界自然基金会的标志。"
+    },
+    {
+      "id": "amur_tiger",
+      "chineseName": "东北虎",
+      "englishName": "Amur Tiger",
+      "scientificName": "Panthera tigris altaica",
+      "taxonomy": {
+        "kingdom": "Animalia",
+        "phylum": "Chordata",
+        "class": "Mammalia",
+        "order": "Carnivora",
+        "family": "Felidae",
+        "genus": "Panthera",
+        "species": "P. tigris altaica"
+      },
+      "category": "mammal",
+      "habitat": "西伯利亚针叶林",
+      "habitatCoordinates": [[46.5000, 134.0000]],
+      "habitatRegion": "俄罗斯远东、中国东北",
+      "population": 500,
+      "conservationStatus": "EN",
+      "foodChain": {
+        "prey": ["梅花鹿", "野猪", "狍", "马鹿"],
+        "predators": ["人类"],
+        "role": "顶级掠食者"
+      },
+      "relatedInsects": ["鹿虱", "森林蜱虫"],
+      "photoUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b9/Above_Gotcha_Street.jpg/640px-Above_Gotcha_Street.jpg",
+      "description": "东北虎是现存最大的猫科动物，体型雄壮。生活在严寒的西伯利亚针叶林中，冬季毛发浓密，是世界上最濒危的大型猫科动物之一。"
+    },
+    {
+      "id": "blue_whale",
+      "chineseName": "蓝鲸",
+      "englishName": "Blue Whale",
+      "scientificName": "Balaenoptera musculus",
+      "taxonomy": {
+        "kingdom": "Animalia",
+        "phylum": "Chordata",
+        "class": "Mammalia",
+        "order": "Artiodactyla",
+        "family": "Balaenopteridae",
+        "genus": "Balaenoptera",
+        "species": "B. musculus"
+      },
+      "category": "mammal",
+      "habitat": "全球各大洋深水区",
+      "habitatCoordinates": [[-40.0000, -30.0000]],
+      "habitatRegion": "全球各大洋",
+      "population": 10000,
+      "conservationStatus": "EN",
+      "foodChain": {
+        "prey": ["磷虾", "小型鱼类"],
+        "predators": ["虎鲸"],
+        "role": "滤食性动物"
+      },
+      "relatedInsects": ["船蛆", "海洋桡足类"],
+      "photoUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1c/Humpback_Whale_underwater_shot.jpg/640px-Humpback_Whale_underwater_shot.jpg",
+      "description": "蓝鲸是地球上有史以来最大的动物，体长可达33米，重达190吨。它们用须板过滤海水中的磷虾为食，每天需摄入约4吨食物。"
+    },
+    {
+      "id": "snow_leopard",
+      "chineseName": "雪豹",
+      "englishName": "Snow Leopard",
+      "scientificName": "Panthera uncia",
+      "taxonomy": {
+        "kingdom": "Animalia",
+        "phylum": "Chordata",
+        "class": "Mammalia",
+        "order": "Carnivora",
+        "family": "Felidae",
+        "genus": "Panthera",
+        "species": "P. uncia"
+      },
+      "category": "mammal",
+      "habitat": "中亚高山岩石地带",
+      "habitatCoordinates": [[35.0000, 77.0000]],
+      "habitatRegion": "喜马拉雅山、帕米尔高原、天山",
+      "population": 4000,
+      "conservationStatus": "VU",
+      "foodChain": {
+        "prey": ["岩羊", "北山羊", "盘羊", "雪鸡"],
+        "predators": ["人类"],
+        "role": "顶级掠食者"
+      },
+      "relatedInsects": ["高山跳蚤", "岩壁蜱虫"],
+      "photoUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0e/Snow_Leopard_Having_a_Meal.jpg/640px-Snow_Leopard_Having_a_Meal.jpg",
+      "description": "雪豹是中亚高山的神秘掠食者，以厚实的皮毛和长尾巴著称。它们独居，行踪隐秘，被称为\"山中幽灵\"，栖息于海拔3000-5500米的高山地带。"
+    },
+    {
+      "id": "african_elephant",
+      "chineseName": "非洲象",
+      "englishName": "African Elephant",
+      "scientificName": "Loxodonta africana",
+      "taxonomy": {
+        "kingdom": "Animalia",
+        "phylum": "Chordata",
+        "class": "Mammalia",
+        "order": "Proboscidea",
+        "family": "Elephantidae",
+        "genus": "Loxodonta",
+        "species": "L. africana"
+      },
+      "category": "mammal",
+      "habitat": "非洲热带草原和森林",
+      "habitatCoordinates": [[-2.0000, 30.0000]],
+      "habitatRegion": "撒哈拉以南非洲",
+      "population": 415000,
+      "conservationStatus": "EN",
+      "foodChain": {
+        "prey": ["草", "树叶", "树皮", "水果"],
+        "predators": ["狮子（幼象）", "人类"],
+        "role": "关键种"
+      },
+      "relatedInsects": ["象鸟虱", "蜣螂", "牛椋鸟"],
+      "photoUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/37/African_Bush_Elephant.jpg/640px-African_Bush_Elephant.jpg",
+      "description": "非洲象是陆地上最大的动物，体重可达6吨。它们是生态系统的工程师，通过挖掘水坑、推倒树木改变栖息地，对非洲草原生态系统至关重要。"
+    },
+    {
+      "id": "polar_bear",
+      "chineseName": "北极熊",
+      "englishName": "Polar Bear",
+      "scientificName": "Ursus maritimus",
+      "taxonomy": {
+        "kingdom": "Animalia",
+        "phylum": "Chordata",
+        "class": "Mammalia",
+        "order": "Carnivora",
+        "family": "Ursidae",
+        "genus": "Ursus",
+        "species": "U. maritimus"
+      },
+      "category": "mammal",
+      "habitat": "北极海冰和沿海地带",
+      "habitatCoordinates": [[78.0000, -20.0000]],
+      "habitatRegion": "北极圈",
+      "population": 26000,
+      "conservationStatus": "VU",
+      "foodChain": {
+        "prey": ["环斑海豹", "髯海豹", "北极鱼类", "白鲸"],
+        "predators": ["人类"],
+        "role": "顶级掠食者"
+      },
+      "relatedInsects": ["北极虱", "冰虫"],
+      "photoUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/66/Polar_Bear_-_Alaska_%28cropped%29.jpg/640px-Polar_Bear_-_Alaska_%28cropped%29.jpg",
+      "description": "北极熊是北极的象征性动物，是世界上最大的陆地肉食动物。因气候变化导致海冰减少，其栖息地正受到严重威胁，种群数量持续下降。"
+    },
+    {
+      "id": "mountain_gorilla",
+      "chineseName": "山地大猩猩",
+      "englishName": "Mountain Gorilla",
+      "scientificName": "Gorilla beringei beringei",
+      "taxonomy": {
+        "kingdom": "Animalia",
+        "phylum": "Chordata",
+        "class": "Mammalia",
+        "order": "Primates",
+        "family": "Hominidae",
+        "genus": "Gorilla",
+        "species": "G. beringei beringei"
+      },
+      "category": "mammal",
+      "habitat": "中非高山热带雨林",
+      "habitatCoordinates": [-1.4710, 29.3560],
+      "habitatRegion": "乌干达、卢旺达、刚果民主共和国",
+      "population": 1063,
+      "conservationStatus": "EN",
+      "foodChain": {
+        "prey": ["树叶", "竹子", "野果", "树根"],
+        "predators": ["豹", "人类"],
+        "role": "植食动物"
+      },
+      "relatedInsects": ["大猩猩虱", "蚊子", "果蝇"],
+      "photoUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d7/Baby_mountain_gorilla.jpg/640px-Baby_mountain_gorilla.jpg",
+      "description": "山地大猩猩是人类最近的亲属之一，基因相似度达98.3%。它们生活在中非的高山雾林中，以家族群体生活，雄性银背大猩猩是群体的守护者。"
+    },
+    {
+      "id": "vaquita",
+      "chineseName": "加湾鼠海豚",
+      "englishName": "Vaquita",
+      "scientificName": "Phocoena sinus",
+      "taxonomy": {
+        "kingdom": "Animalia",
+        "phylum": "Chordata",
+        "class": "Mammalia",
+        "order": "Artiodactyla",
+        "family": "Phocoenidae",
+        "genus": "Phocoena",
+        "species": "P. sinus"
+      },
+      "category": "mammal",
+      "habitat": "加利福尼亚湾北部",
+      "habitatCoordinates": [[31.0000, -114.5000]],
+      "habitatRegion": "墨西哥加利福尼亚湾",
+      "population": 10,
+      "conservationStatus": "CR",
+      "foodChain": {
+        "prey": ["小鱼", "鱿鱼", "甲壳类"],
+        "predators": ["鲨鱼", "虎鲸"],
+        "role": "中级捕食者"
+      },
+      "relatedInsects": [],
+      "photoUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/73/Phocoena_sinus.jpg/640px-Phocoena_sinus.jpg",
+      "description": "加湾鼠海豚是世界上最濒危的海洋哺乳动物，目前仅剩不到10头。它们面临的主要威胁是非法刺网捕鱼，几乎可以确定将在未来几年内灭绝。"
+    },
+    {
+      "id": "javan_rhino",
+      "chineseName": "爪哇犀牛",
+      "englishName": "Javan Rhinoceros",
+      "scientificName": "Rhinoceros sondaicus",
+      "taxonomy": {
+        "kingdom": "Animalia",
+        "phylum": "Chordata",
+        "class": "Mammalia",
+        "order": "Perissodactyla",
+        "family": "Rhinocerotidae",
+        "genus": "Rhinoceros",
+        "species": "R. sondaicus"
+      },
+      "category": "mammal",
+      "habitat": "东南亚热带雨林",
+      "habitatCoordinates": [[-6.7750, 105.3725]],
+      "habitatRegion": "印度尼西亚爪哇岛乌戎库隆",
+      "population": 76,
+      "conservationStatus": "CR",
+      "foodChain": {
+        "prey": ["树叶", "嫩枝", "野果", "水生植物"],
+        "predators": ["人类（偷猎）"],
+        "role": "大型植食动物"
+      },
+      "relatedInsects": ["犀牛虱", "蜱虫", "蚊子"],
+      "photoUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/bb/Badak_jawa_ujung_kulon.jpg/640px-Badak_jawa_ujung_kulon.jpg",
+      "description": "爪哇犀牛是世界上最濒危的大型哺乳动物之一，目前全球仅剩约76头，全部生活在印度尼西亚乌戎库隆国家公园。它们独居，极为神秘。"
+    },
+    {
+      "id": "emperor_penguin",
+      "chineseName": "帝企鹅",
+      "englishName": "Emperor Penguin",
+      "scientificName": "Aptenodytes forsteri",
+      "taxonomy": {
+        "kingdom": "Animalia",
+        "phylum": "Chordata",
+        "class": "Aves",
+        "order": "Sphenisciformes",
+        "family": "Spheniscidae",
+        "genus": "Aptenodytes",
+        "species": "A. forsteri"
+      },
+      "category": "bird",
+      "habitat": "南极洲冰盖",
+      "habitatCoordinates": [[-75.0000, -0.0000]],
+      "habitatRegion": "南极洲",
+      "population": 270000,
+      "conservationStatus": "NT",
+      "foodChain": {
+        "prey": ["南极鱼类", "磷虾", "鱿鱼"],
+        "predators": ["豹形海豹", "虎鲸"],
+        "role": "中级捕食者"
+      },
+      "relatedInsects": ["南极磷虾", "桡足类"],
+      "photoUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/08/South_Pole_Telescope_and_penguin.jpg/640px-South_Pole_Telescope_and_penguin.jpg",
+      "description": "帝企鹅是最大的企鹅物种，身高可达1.2米。它们在南极严冬中繁殖，雄性在零下60度的严寒中孵卵，展现出极强的耐寒能力。"
+    },
+    {
+      "id": "komodo_dragon",
+      "chineseName": "科莫多巨蜥",
+      "englishName": "Komodo Dragon",
+      "scientificName": "Varanus komodoensis",
+      "taxonomy": {
+        "kingdom": "Animalia",
+        "phylum": "Chordata",
+        "class": "Reptilia",
+        "order": "Squamata",
+        "family": "Varanidae",
+        "genus": "Varanus",
+        "species": "V. komodoensis"
+      },
+      "category": "reptile",
+      "habitat": "印度尼西亚小巽他群岛",
+      "habitatCoordinates": [[-8.5500, 119.4800]],
+      "habitatRegion": "印度尼西亚科莫多岛、林卡岛",
+      "population": 1383,
+      "conservationStatus": "EN",
+      "foodChain": {
+        "prey": ["水牛", "野猪", "鹿", "山羊", "猴子"],
+        "predators": [],
+        "role": "顶级掠食者"
+      },
+      "relatedInsects": ["腐食性昆虫", "蜱虫"],
+      "photoUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/Varanus_komodoensis_Sheila_in_Recursion_%28cropped%29.jpg/640px-Varanus_komodoensis_Sheila_in_Recursion_%28cropped%29.jpg",
+      "description": "科莫多巨蜥是世界上最大的蜥蜴，体长可达3米，重达70公斤。它们利用毒腺和细菌性唾液捕猎，能够奔跑并伏击猎物，是岛屿上的顶级掠食者。"
+    },
+    {
+      "id": "leatherback_turtle",
+      "chineseName": "棱皮龟",
+      "englishName": "Leatherback Sea Turtle",
+      "scientificName": "Dermochelys coriacea",
+      "taxonomy": {
+        "kingdom": "Animalia",
+        "phylum": "Chordata",
+        "class": "Reptilia",
+        "order": "Testudines",
+        "family": "Dermochelyidae",
+        "genus": "Dermochelys",
+        "species": "D. coriacea"
+      },
+      "category": "reptile",
+      "habitat": "全球热带和温带海洋",
+      "habitatCoordinates": [[5.0000, -52.0000]],
+      "habitatRegion": "全球各大洋热带和亚热带海域",
+      "population": 34000,
+      "conservationStatus": "VU",
+      "foodChain": {
+        "prey": ["水母", "海鞘", "鱿鱼"],
+        "predators": ["鲨鱼", "虎鲸（幼龟）"],
+        "role": "中级捕食者"
+      },
+      "relatedInsects": ["海洋等足类", "藤壶"],
+      "photoUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/60/Leatherback_sea_turtle_Tinglar_USVI_%285839996547%29.jpg/640px-Leatherback_sea_turtle_Tinglar_USVI_%285839996547%29.jpg",
+      "description": "棱皮龟是现存最大的海龟，甲长可达2米，重达900公斤。它们能在寒冷水域中维持体温，迁徙距离可达2万公里，以水母为主食。"
+    },
+    {
+      "id": "whooping_crane",
+      "chineseName": "美洲鹤",
+      "englishName": "Whooping Crane",
+      "scientificName": "Grus americana",
+      "taxonomy": {
+        "kingdom": "Animalia",
+        "phylum": "Chordata",
+        "class": "Aves",
+        "order": "Gruiformes",
+        "family": "Gruidae",
+        "genus": "Grus",
+        "species": "G. americana"
+      },
+      "category": "bird",
+      "habitat": "北美湿地和草原",
+      "habitatCoordinates": [[57.0000, -107.0000]],
+      "habitatRegion": "加拿大西北地区至美国德克萨斯州",
+      "population": 825,
+      "conservationStatus": "EN",
+      "foodChain": {
+        "prey": ["蓝蟹", "蛤蜊", "鱼类", "浆果", "农作物"],
+        "predators": ["秃鹰", "郊狼", "人类"],
+        "role": "杂食性鸟类"
+      },
+      "relatedInsects": ["蜻蜓", "甲虫", "蚱蜢"],
+      "photoUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5b/WhoopingCrane_International_Crane_Foundation.jpg/640px-WhoopingCrane_International_Crane_Foundation.jpg",
+      "description": "美洲鹤是北美最高的鸟类，也是极度濒危的物种。20世纪中期数量降至仅15只，经过数十年保护努力，种群数量已恢复至800余只。"
+    },
+    {
+      "id": "axolotl",
+      "chineseName": "墨西哥钝口螈",
+      "englishName": "Axolotl",
+      "scientificName": "Ambystoma mexicanum",
+      "taxonomy": {
+        "kingdom": "Animalia",
+        "phylum": "Chordata",
+        "class": "Amphibia",
+        "order": "Urodela",
+        "family": "Ambystomatidae",
+        "genus": "Ambystoma",
+        "species": "A. mexicanum"
+      },
+      "category": "amphibian",
+      "habitat": "墨西哥城霍奇米尔科湖",
+      "habitatCoordinates": [[19.2817, -99.0966]],
+      "habitatRegion": "墨西哥霍奇米尔科湖系",
+      "population": 50,
+      "conservationStatus": "CR",
+      "foodChain": {
+        "prey": ["蚯蚓", "小鱼", "甲壳类", "水生昆虫"],
+        "predators": ["鲤鱼（入侵种）", "鲈鱼", "白鹭"],
+        "role": "中级捕食者"
+      },
+      "relatedInsects": ["水生昆虫幼虫", "孑孓", "水蚤"],
+      "photoUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e7/Ambystoma_mexicanum_%28Axolotl%29.jpg/640px-Ambystoma_mexicanum_%28Axolotl%29.jpg",
+      "description": "墨西哥钝口螈俗称六角恐龙，以终生保持幼体形态（幼态延续）和强大的再生能力著称，可再生四肢、心脏甚至部分大脑组织。"
+    },
+    {
+      "id": "sumatran_orangutan",
+      "chineseName": "苏门答腊猩猩",
+      "englishName": "Sumatran Orangutan",
+      "scientificName": "Pongo abelii",
+      "taxonomy": {
+        "kingdom": "Animalia",
+        "phylum": "Chordata",
+        "class": "Mammalia",
+        "order": "Primates",
+        "family": "Hominidae",
+        "genus": "Pongo",
+        "species": "P. abelii"
+      },
+      "category": "mammal",
+      "habitat": "苏门答腊热带雨林",
+      "habitatCoordinates": [[3.5952, 98.6722]],
+      "habitatRegion": "印度尼西亚苏门答腊岛",
+      "population": 13846,
+      "conservationStatus": "CR",
+      "foodChain": {
+        "prey": ["野果", "树叶", "树皮", "昆虫", "小型脊椎动物"],
+        "predators": ["云豹", "苏门答腊虎"],
+        "role": "杂食性灵长类"
+      },
+      "relatedInsects": ["白蚁", "蚂蚁", "甲虫"],
+      "photoUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/be/Orang_Utan%2C_Semenggok_Forest_Reserve%2C_Sarawak%2C_Borneo%2C_Malaysia.JPG/640px-Orang_Utan%2C_Semenggok_Forest_Reserve%2C_Sarawak%2C_Borneo%2C_Malaysia.JPG",
+      "description": "苏门答腊猩猩是人类的近亲，基因相似度达97%。它们是高度智慧的动物，会制造和使用工具。由于栖息地遭受棕榈油种植园的侵占，数量急剧减少。"
+    },
+    {
+      "id": "amur_leopard",
+      "chineseName": "远东豹",
+      "englishName": "Amur Leopard",
+      "scientificName": "Panthera pardus orientalis",
+      "taxonomy": {
+        "kingdom": "Animalia",
+        "phylum": "Chordata",
+        "class": "Mammalia",
+        "order": "Carnivora",
+        "family": "Felidae",
+        "genus": "Panthera",
+        "species": "P. pardus orientalis"
+      },
+      "category": "mammal",
+      "habitat": "俄罗斯远东温带森林",
+      "habitatCoordinates": [[43.5000, 132.5000]],
+      "habitatRegion": "俄罗斯滨海边疆区",
+      "population": 110,
+      "conservationStatus": "CR",
+      "foodChain": {
+        "prey": ["梅花鹿", "狍", "兔子", "野猪"],
+        "predators": ["东北虎", "人类"],
+        "role": "顶级掠食者"
+      },
+      "relatedInsects": ["蜱虫", "鹿虻"],
+      "photoUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0f/Amur_leopard_%28Panthera_pardus_orientalis%29_in_Prague_Zoo.jpg/640px-Amur_leopard_%28Panthera_pardus_orientalis%29_in_Prague_Zoo.jpg",
+      "description": "远东豹是世界上最濒危的大型猫科动物，野外仅剩约110只。它们生活在俄罗斯与中国边境的温带森林中，是极为罕见的独行猎手。"
+    },
+    {
+      "id": "african_wild_dog",
+      "chineseName": "非洲野犬",
+      "englishName": "African Wild Dog",
+      "scientificName": "Lycaon pictus",
+      "taxonomy": {
+        "kingdom": "Animalia",
+        "phylum": "Chordata",
+        "class": "Mammalia",
+        "order": "Carnivora",
+        "family": "Canidae",
+        "genus": "Lycaon",
+        "species": "L. pictus"
+      },
+      "category": "mammal",
+      "habitat": "非洲热带草原",
+      "habitatCoordinates": [[-19.0000, 29.0000]],
+      "habitatRegion": "非洲南部和东部",
+      "population": 6600,
+      "conservationStatus": "EN",
+      "foodChain": {
+        "prey": ["黑斑羚", "瞪羚", "斑马（幼崽）", "疣猪"],
+        "predators": ["狮子", "斑鬣狗"],
+        "role": "社会性捕食者"
+      },
+      "relatedInsects": ["蜱虫", "牛椋鸟（共生）"],
+      "photoUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/86/Two_dogs_-_Lycaon_pictus.jpg/640px-Two_dogs_-_Lycaon_pictus.jpg",
+      "description": "非洲野犬是非洲大陆捕猎成功率最高的猎手，达成率超过80%。它们高度社会化，以民主方式决策，群体成员间相互照料伤病个体。"
+    },
+    {
+      "id": "monarch_butterfly",
+      "chineseName": "帝王蝶",
+      "englishName": "Monarch Butterfly",
+      "scientificName": "Danaus plexippus",
+      "taxonomy": {
+        "kingdom": "Animalia",
+        "phylum": "Arthropoda",
+        "class": "Insecta",
+        "order": "Lepidoptera",
+        "family": "Nymphalidae",
+        "genus": "Danaus",
+        "species": "D. plexippus"
+      },
+      "category": "insect",
+      "habitat": "北美草原和墨西哥山地针叶林",
+      "habitatCoordinates": [[19.5590, -100.2710]],
+      "habitatRegion": "北美洲（夏）→ 墨西哥（冬）",
+      "population": 35000000,
+      "conservationStatus": "EN",
+      "foodChain": {
+        "prey": ["马利筋花蜜", "马利筋叶（幼虫）"],
+        "predators": ["黑背林莺", "黑头山雀", "蜘蛛"],
+        "role": "传粉者"
+      },
+      "relatedInsects": ["蜜蜂", "熊蜂", "其他蝴蝶"],
+      "photoUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/63/Monarch_In_May.jpg/640px-Monarch_In_May.jpg",
+      "description": "帝王蝶以其壮观的迁徙著称，每年从加拿大、美国迁徙到墨西哥，单程超过4000公里。橙黑相间的翅膀是警戒色，表明其体内含有毒素。"
+    },
+    {
+      "id": "great_white_shark",
+      "chineseName": "大白鲨",
+      "englishName": "Great White Shark",
+      "scientificName": "Carcharodon carcharias",
+      "taxonomy": {
+        "kingdom": "Animalia",
+        "phylum": "Chordata",
+        "class": "Chondrichthyes",
+        "order": "Lamniformes",
+        "family": "Lamnidae",
+        "genus": "Carcharodon",
+        "species": "C. carcharias"
+      },
+      "category": "fish",
+      "habitat": "全球温带和热带沿海海域",
+      "habitatCoordinates": [[-34.0000, 26.0000]],
+      "habitatRegion": "全球各大洋沿海",
+      "population": 3500,
+      "conservationStatus": "VU",
+      "foodChain": {
+        "prey": ["海豹", "海狮", "海豚", "鱼类", "海龟"],
+        "predators": ["虎鲸"],
+        "role": "顶级掠食者"
+      },
+      "relatedInsects": ["鲨鱼寄生虫", "海洋等足类"],
+      "photoUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/56/White_shark.jpg/640px-White_shark.jpg",
+      "description": "大白鲨是海洋中最著名的捕食者，体长可达6米以上。作为海洋生态系统的顶级捕食者，它们对维持海洋生物多样性具有重要作用。"
+    }
+  ]
+}
